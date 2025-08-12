@@ -1,0 +1,74 @@
+{
+  "name": "@opendex/icons",
+  "version": "0.1.0",
+  "description": "Colección de iconos React para Opendex Corporation, con tipado TypeScript y build ESM/CJS.",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Opendex Corporation",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    },
+    "./icons": {
+      "types": "./dist/icons/index.d.ts",
+      "import": "./dist/icons/index.js",
+      "require": "./dist/icons/index.js"
+    },
+    "./icons/*": {
+      "types": "./dist/icons/*.d.ts",
+      "import": "./dist/icons/*.js",
+      "require": "./dist/icons/*.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "typesVersions": {
+    "*": {
+      "icons/*": ["dist/icons/*"],
+      "icons": ["dist/icons/index.d.ts"]
+    }
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "rimraf dist && tsc -p tsconfig.build.json",
+    "dev": "tsc -p tsconfig.build.json --watch",
+    "generate": "node scripts/generate-icons.js",
+    "prepack": "npm run clean && npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.5",
+    "change-case": "^5.4.4",
+    "fast-glob": "^3.3.2",
+    "prettier": "^3.3.2",
+    "rimraf": "^5.0.7",
+    "svgo": "^3.3.2",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "icons",
+    "react",
+    "typescript",
+    "svg",
+    "opendex-corporation"
+  ]
+}
+
+

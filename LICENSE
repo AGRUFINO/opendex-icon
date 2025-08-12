@@ -1,0 +1,69 @@
+Opendex License v1.0 (Source-Available, Platform-Restricted)
+
+Copyright (c) 2025 Opendex Corporation
+
+Preamble
+This is a source-available license that grants limited rights to use this software
+when building applications that connect to or use Opendex Corporation products,
+services, or APIs. It is not an open-source license.
+
+1. Definitions
+"Software" means the icon files, source code, generated components, documentation,
+and any accompanying materials provided in this repository/package.
+
+2. Grant of License (Platform Use)
+Subject to the terms below, Opendex Corporation grants you a non-exclusive,
+non-transferable, worldwide, royalty-free license to use, copy, and modify the
+Software solely to develop, test, and distribute applications that connect to,
+interoperate with, or are designed to be used with Opendex Corporation products,
+services, or APIs ("Opendex Services").
+
+3. Restrictions
+You may NOT:
+  a) Use the Software to create, provide, or enhance a product or service that
+     competes with Opendex Services, or that is a substitute for Opendex Services.
+  b) Offer the Software, or any portion of it, as a standalone product, service,
+     or library of icons (including "as-a-service").
+  c) Sublicense, sell, or distribute the Software except as an embedded and
+     incidental part of your application that integrates with Opendex Services.
+  d) Remove or alter any copyright, trademark, or attribution notices contained
+     in the Software.
+
+4. Redistribution
+You may redistribute the Software only as incorporated into your application that
+integrates with Opendex Services, and only if you include this License text with
+the distribution.
+
+5. Modifications and Derivative Works
+You may create modifications and derivative works. Any distribution of
+modifications or derivatives must comply with Section 4 and remains subject to
+this License.
+
+6. Ownership
+Opendex Corporation retains all right, title, and interest in and to the Software.
+Except for the limited license expressly granted, no other rights are granted,
+whether by implication, estoppel, or otherwise.
+
+7. Trademarks
+This License does not grant permission to use Opendex Corporation’s trademarks,
+service marks, or trade dress.
+
+8. Termination
+This License terminates automatically if you breach any term. Upon termination,
+you must cease all use and distribution of the Software and destroy all copies.
+
+9. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10. Limitation of Liability
+IN NO EVENT SHALL OPENDEX CORPORATION BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR ANY LOSS OF PROFITS, REVENUE,
+DATA, OR USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. Commercial or Alternative Licensing
+If you wish to use the Software outside the scope permitted here, contact
+Opendex Corporation for a commercial license: licensing@opendex.com
+
+
