@@ -1,0 +1,1339 @@
+# 📋 Lista Completa de Iconos - @opendex-origon/icons v2.9.2
+
+**Total de iconos únicos:** 4806
+**Total de categorías:** 29
+
+## 📊 Resumen por Categorías
+
+| Categoría | Cantidad |
+|-----------|----------|
+| Devices & Hardware | 577 |
+| E-Commerce & Shopping | 474 |
+| Date & Time | 250 |
+| Multimedia | 240 |
+| Other | 222 |
+| Communication | 213 |
+| 1-UI Basics | 204 |
+| Buildings | 193 |
+| Files | 188 |
+| Documents | 184 |
+| Payment & Money | 183 |
+| Currencies | 168 |
+| Arrows | 150 |
+| Business & Finance | 135 |
+| Charts & Diagrams | 134 |
+| Support & Reviews | 120 |
+| Chatting | 114 |
+| Commenting | 114 |
+| Messaging | 114 |
+| Users & People | 114 |
+| Education | 108 |
+| Location & Map | 102 |
+| Connectivity | 97 |
+| Design & Editing | 96 |
+| Text Formatting | 96 |
+| Security | 90 |
+| Sign & Indices | 54 |
+| Coding | 36 |
+| Menu & Grids | 36 |
+
+## 🎨 Detalle por Categoría
+
+### Devices & Hardware (577 iconos)
+
+- AirConditioner • BatteryBolt • BatteryCar • BatteryCarBolt
+- BatteryEmpty • BatteryFull • BatteryHalf • BatteryLow
+- BatteryThreeQuarters • Calculator • Camcorder • Camera
+- CameraArrowDown • CameraArrowDownCircle • CameraArrowDown_1 • CameraArrowUpCircle
+- CameraBan • CameraBolt • CameraCheck • CameraCheckCircle
+- CameraCircle • CameraCircle_1 • CameraClock • CameraCode
+- CameraDollar • CameraExchange • CameraExclamationCircle • CameraEye
+- CameraGear • CameraHeart • CameraImage • CameraInfoCircle
+- CameraLocationPin • CameraLock • CameraMinus • CameraMinusCircle
+- CameraMovie • CameraMusicNote • CameraPen • CameraPercentCircle
+- CameraPlus • CameraPlusCircle • CameraQuestionCircle • CameraRetro
+- CameraSearch • CameraSecurity • CameraShare • CameraShield
+- CameraSimpleArrowDown • CameraSimpleArrowUp • CameraSimpleBolt • CameraSimpleCheck
+- CameraSimpleExclamation • CameraSimpleInfo • CameraSimpleMinus • CameraSimplePlus
+- CameraSimpleQuestion • CameraSimpleRotate • CameraSimpleUser • CameraSimpleXmark
+- CameraSlash • CameraSparkles • CameraSquare • CameraSquare_1
+- CameraStar • CameraUser • CameraViewfinder • CameraViewfinder_1
+- CameraWeb • CameraWebSlash • CameraWifi • CameraXmark
+- CameraXmarkCircle • ComputerMouse • ComputerMouseAlt • Database
+- Desktop • DesktopArrowDownCircle • DesktopArrowUpCircle • DesktopBan
+- DesktopBolt • DesktopCheckCircle • DesktopClock • DesktopCode
+- DesktopDollar • DesktopDownload • DesktopExchange • DesktopExclamationCircle
+- DesktopEye • DesktopGear • DesktopHeart • DesktopInfoCircle
+- DesktopLocationPin • DesktopLock • DesktopMinusCircle • DesktopMobile
+- DesktopMusicNote • DesktopPen • DesktopPercentCircle • DesktopPlusCircle
+- DesktopQuestionCircle • DesktopSearch • DesktopShare • DesktopShield
+- DesktopSlash • DesktopSlash_1 • DesktopSparkles • DesktopStar
+- DesktopUser • DesktopWifi • DesktopXmarkCircle • Disc
+- Display • DisplayArrowDown • DisplayArrowUp • DisplayBan
+- DisplayBolt • DisplayCheck • DisplayClock • DisplayCode
+- DisplayDollar • DisplayDownload • DisplayExchange • DisplayExclamation
+- DisplayEye • DisplayGear • DisplayHeart • DisplayInfo
+- DisplayLocationPin • DisplayLock • DisplayMinus • DisplayMobile
+- DisplayMusicNote • DisplayPen • DisplayPercent • DisplayPlay
+- DisplayPlus • DisplayQuestion • DisplaySearch • DisplayShare
+- DisplayShield • DisplaySparkles • DisplayStar • DisplayTrendUp
+- DisplayUser • DisplayWifi • DisplayXmark • Fax
+- Flashlight • Flashlight_1 • FloppyDisk • FloppyDiskArrowDownCircle
+- FloppyDiskArrowUpCircle • FloppyDiskBan • FloppyDiskBolt • FloppyDiskCheckCircle
+- FloppyDiskClock • FloppyDiskCode • FloppyDiskDollar • FloppyDiskExchange
+- FloppyDiskExclamationCircle • FloppyDiskEye • FloppyDiskGear • FloppyDiskHeart
+- FloppyDiskInfoCircle • FloppyDiskLocationPin • FloppyDiskLock • FloppyDiskMinusCircle
+- FloppyDiskMusicNote • FloppyDiskPen • FloppyDiskPercentCircle • FloppyDiskPlusCircle
+- FloppyDiskQuestionCircle • FloppyDiskSearch • FloppyDiskShare • FloppyDiskShield
+- FloppyDiskSparkles • FloppyDiskStar • FloppyDiskUser • FloppyDiskWifi
+- FloppyDiskXmarkCircle • FloppyDisks • GameController • GameControllerSimple
+- Gameboy • HardDrive • HardDriveArrowDownCircle • HardDriveArrowUpCircle
+- HardDriveBackup • HardDriveBan • HardDriveBolt • HardDriveCheckCircle
+- HardDriveClock • HardDriveCloud • HardDriveCode • HardDriveConnection
+- HardDriveDollar • HardDriveExchange • HardDriveExclamationCircle • HardDriveEye
+- HardDriveGear • HardDriveHeart • HardDriveInfoCircle • HardDriveInternal
+- HardDriveLocationPin • HardDriveLock • HardDriveMinusCircle • HardDriveMusicNote
+- HardDriveOptical • HardDrivePen • HardDrivePercentCircle • HardDrivePlusCircle
+- HardDriveQuestionCircle • HardDriveSearch • HardDriveShare • HardDriveShield
+- HardDriveSparkles • HardDriveStar • HardDriveUser • HardDriveWifi
+- HardDriveXmarkCircle • Headphones • HeadphonesSimple • HeadphonesWaveform
+- Headset • Keyboard • Laptop • LaptopArrowDownCircle
+- LaptopArrowUpCircle • LaptopBan • LaptopBolt • LaptopCheckCircle
+- LaptopClock • LaptopCode • LaptopConnection • LaptopDollar
+- LaptopDownload • LaptopExchange • LaptopExclamationCircle • LaptopEye
+- LaptopGear • LaptopHeart • LaptopInfoCircle • LaptopKeyboard
+- LaptopLocationPin • LaptopLock • LaptopMinusCircle • LaptopMobile
+- LaptopMusicNote • LaptopPen • LaptopPercentCircle • LaptopPlusCircle
+- LaptopQuestionCircle • LaptopSearch • LaptopShare • LaptopShield
+- LaptopSimpleBolt • LaptopSimpleCheck • LaptopSimpleCode • LaptopSimpleMinus
+- LaptopSimplePlus • LaptopSimpleXmark • LaptopSlash • LaptopSparkles
+- LaptopStar • LaptopUser • LaptopWifi • LaptopXmarkCircle
+- Lightbulb • LightbulbArrowDownCircle • LightbulbArrowUpCircle • LightbulbBan
+- LightbulbBolt • LightbulbCheckCircle • LightbulbClock • LightbulbCode
+- LightbulbDollar • LightbulbExchange • LightbulbExclamationCircle • LightbulbEye
+- LightbulbGear • LightbulbHeart • LightbulbInfoCircle • LightbulbLocationPin
+- LightbulbLock • LightbulbMinusCircle • LightbulbMusicNote • LightbulbOn
+- LightbulbPen • LightbulbPercentCircle • LightbulbPlusCircle • LightbulbQuestionCircle
+- LightbulbSearch • LightbulbShare • LightbulbShield • LightbulbSimple
+- LightbulbSimpleBolt • LightbulbSimpleOn • LightbulbSlash • LightbulbSparkles
+- LightbulbStar • LightbulbUser • LightbulbWifi • LightbulbXmarkCircle
+- MemoryRam • Microchip • MicrochipAi • MicrochipBolt
+- Microphone • MicrophoneArrowDownCircle • MicrophoneArrowUpCircle • MicrophoneBan
+- MicrophoneBolt • MicrophoneCheckCircle • MicrophoneCircle • MicrophoneClock
+- MicrophoneCode • MicrophoneDollar • MicrophoneExchange • MicrophoneExclamationCircle
+- MicrophoneEye • MicrophoneGear • MicrophoneHeart • MicrophoneInfoCircle
+- MicrophoneLocationPin • MicrophoneLock • MicrophoneMinusCircle • MicrophoneMusicNote
+- MicrophonePauseCircle • MicrophonePen • MicrophonePercentCircle • MicrophonePlayCircle
+- MicrophonePlusCircle • MicrophoneQuestionCircle • MicrophoneSearch • MicrophoneShare
+- MicrophoneShield • MicrophoneSlash • MicrophoneSparkles • MicrophoneSquare
+- MicrophoneStand • MicrophoneStandSimple • MicrophoneStar • MicrophoneUser
+- MicrophoneWifi • MicrophoneXmarkCircle • Mobile • MobileArrowDownCircle
+- MobileArrowUpCircle • MobileBan • MobileBolt • MobileButton
+- MobileButtonSlash • MobileCameraRotate • MobileCheckCircle • MobileClock
+- MobileCode • MobileDollar • MobileExchange • MobileExclamationCircle
+- MobileEye • MobileGear • MobileHeart • MobileInfoCircle
+- MobileLocationPin • MobileLock • MobileMinusCircle • MobileMusicNote
+- MobilePen • MobilePercentCircle • MobilePlusCircle • MobileQuestionCircle
+- MobileRotate • MobileRotateAlt • MobileRotateLandscape • MobileRotatePortrait
+- MobileSearch • MobileShare • MobileShield • MobileSimpleBolt
+- MobileSlash • MobileSparkles • MobileStar • MobileUser
+- MobileVibration • MobileVibrationSlash • MobileWifi • MobileXmarkCircle
+- PhoneOffice • Plug • PlugArrowDownCircle • PlugArrowUpCircle
+- PlugBan • PlugBolt • PlugCheckCircle • PlugCircle
+- PlugClock • PlugCode • PlugConnection • PlugDollar
+- PlugExchange • PlugExclamationCircle • PlugEye • PlugGear
+- PlugHeart • PlugInfoCircle • PlugLocationPin • PlugLock
+- PlugMinusCircle • PlugMusicNote • PlugPen • PlugPercentCircle
+- PlugPlusCircle • PlugQuestionCircle • PlugSearch • PlugShare
+- PlugShield • PlugSimple • PlugSimpleBolt • PlugSparkles
+- PlugStar • PlugUser • PlugWifi • PlugXmarkCircle
+- Print • PrintArrowDownCircle • PrintArrowUpCircle • PrintBan
+- PrintBolt • PrintCheckCircle • PrintClock • PrintCode
+- PrintDollar • PrintExchange • PrintExclamationCircle • PrintEye
+- PrintGear • PrintHeart • PrintInfoCircle • PrintLocationPin
+- PrintLock • PrintMinusCircle • PrintMusicNote • PrintPen
+- PrintPercentCircle • PrintPlusCircle • PrintQuestionCircle • PrintSearch
+- PrintShare • PrintShield • PrintSlash • PrintSparkles
+- PrintStar • PrintUser • PrintWifi • PrintXmarkCircle
+- Projector • Radio • RadioAlt • Refrigerator
+- RemoteControl • Router • RouterWifi • RouterWifiAlt
+- ScannerImage • SdCard • SdCards • Server
+- ServerArrowDown • ServerArrowUp • ServerConnection • ServerConnectionCheck
+- ServerConnectionXmark • ServerConnection_1 • ServerNetwork • ServerNetworkCheck
+- ServerNetworkXmark • ServerSimple • ServerSimpleConnection • ServerSimpleNetwork
+- ServerSimpleNetworkCheck • ServerSimpleNetworkXmark • Shredder • SimCard
+- SimCardCheck • SimCardXmark • SimCard_1 • SimCard_2
+- SimCards • SmartWatch • SmartWatchBolt • SmartWatchCalculator
+- SmartWatchHeart • SmartWatchPulse • SmartWatchSnooze • Speaker
+- Speakers • Tablet • TabletArrowDownCircle • TabletArrowUpCircle
+- TabletBan • TabletBolt • TabletButton • TabletButtonSlash
+- TabletCheckCircle • TabletClock • TabletCode • TabletDollar
+- TabletExchange • TabletExclamationCircle • TabletEye • TabletGear
+- TabletHeart • TabletInfoCircle • TabletLocationPin • TabletLock
+- TabletMinusCircle • TabletMusicNote • TabletPen • TabletPercentCircle
+- TabletPlusCircle • TabletPoll • TabletQuestionCircle • TabletSearch
+- TabletShare • TabletShield • TabletSimpleBolt • TabletSlash
+- TabletSparkles • TabletStar • TabletUser • TabletWifi
+- TabletXmarkCircle • Telescope • Tv • TvBolt
+- TvHd • TvMusicNote • TvPause • TvPlay
+- TvRetro • TvSlash • TvSparkles • TvSpeaker
+- TvWifi • Tv_4k • Tv_8k • UsbDrive
+- Video • VideoArrowDown • VideoArrowLeftDown • VideoArrowRightUp
+- VideoArrowUp • VideoBan • VideoBolt • VideoCheck
+- VideoClock • VideoExclamation • VideoEye • VideoGear
+- VideoHeart • VideoInfo • VideoLock • VideoMinus
+- VideoMissed • VideoPercent • VideoPlay • VideoPlus
+- VideoQuestion • VideoSearch • VideoSlash • VideoSparkles
+- VideoStar • VideoUser • VideoXmark • WalkieTalkie
+- WeightScale
+
+### E-Commerce & Shopping (474 iconos)
+
+- Badge • BadgeArrowDown • BadgeArrowUp • BadgeBolt
+- BadgeChart • BadgeCheck • BadgeDollar • BadgeExclamation
+- BadgeHeart • BadgeInfo • BadgeMinus • BadgePercent
+- BadgePlus • BadgeQuestion • BadgeStar • BadgeTrendDown
+- BadgeTrendUp • BadgeUser • BadgeXmark • Badge_10
+- Badge_20 • Badge_24 • Badge_30 • Badge_40
+- Badge_50 • Badge_60 • Badge_7 • Badge_70
+- Badge_80 • Badge_90 • Balloon • Balloons
+- Barcode • BarcodeRead • BarcodeScan • BarcodeScanAlt
+- BarcodeSearch • BasketArrowDownCircle • BasketArrowUpCircle • BasketBan
+- BasketBolt • BasketCheckCircle • BasketClock • BasketCode
+- BasketDollar • BasketExchange • BasketExclamationCircle • BasketEye
+- BasketGear • BasketHeart • BasketInfoCircle • BasketLocationPin
+- BasketLock • BasketMinusCircle • BasketMusicNote • BasketPen
+- BasketPercentCircle • BasketPlusCircle • BasketQuestionCircle • BasketSearch
+- BasketShare • BasketShield • BasketShopping • BasketShoppingSimple
+- BasketShopping_24 • BasketShopping_7 • BasketSimpleSlash • BasketSlash
+- BasketSparkles • BasketStar • BasketUser • BasketWifi
+- BasketXmarkCircle • Box • BoxArrowDownCircle • BoxArrowUpCircle
+- BoxBan • BoxBolt • BoxChange • BoxCheckCircle
+- BoxClock • BoxCode • BoxDistribution • BoxDollar
+- BoxExchange • BoxExclamationCircle • BoxEye • BoxFast
+- BoxFront • BoxFrontArrowDownCircle • BoxFrontArrowUpCircle • BoxFrontBan
+- BoxFrontBolt • BoxFrontCheckCircle • BoxFrontClock • BoxFrontCode
+- BoxFrontDistribution • BoxFrontDollar • BoxFrontExchange • BoxFrontExclamationCircle
+- BoxFrontEye • BoxFrontGear • BoxFrontHeart • BoxFrontInfoCircle
+- BoxFrontLocationPin • BoxFrontLock • BoxFrontMinusCircle • BoxFrontMusicNote
+- BoxFrontPallet • BoxFrontPen • BoxFrontPercentCircle • BoxFrontPlusCircle
+- BoxFrontQuestionCircle • BoxFrontSearch • BoxFrontShare • BoxFrontShield
+- BoxFrontSparkles • BoxFrontStar • BoxFrontUser • BoxFrontViewfinder
+- BoxFrontWifi • BoxFrontXmarkCircle • BoxGear • BoxHeart
+- BoxIn • BoxInfoCircle • BoxLocationPin • BoxLock
+- BoxMinusCircle • BoxMusicNote • BoxOpen • BoxOpenFull
+- BoxOpenSurprise • BoxOut • BoxParachute • BoxPen
+- BoxPercentCircle • BoxPlusCircle • BoxQuestionCircle • BoxRestock
+- BoxSearch • BoxShare • BoxShield • BoxSimple
+- BoxSparkles • BoxStar • BoxUser • BoxViewfinder
+- BoxWifi • BoxXmarkCircle • Boxes • CartArrowDownCircle
+- CartArrowUpCircle • CartBan • CartBolt • CartCheckCircle
+- CartClock • CartCode • CartDollar • CartExchange
+- CartExclamationCircle • CartEye • CartFlatbed • CartFlatbedArrowDown
+- CartFlatbedArrowUp • CartFlatbedBolt • CartFlatbedBoxes • CartFlatbedCheck
+- CartFlatbedClock • CartFlatbedEmpty • CartFlatbedMinus • CartFlatbedPercent
+- CartFlatbedPlus • CartFlatbedXmark • CartGear • CartHeart
+- CartInfoCircle • CartLocationPin • CartLock • CartMinusCircle
+- CartMusicNote • CartPen • CartPercentCircle • CartPlusCircle
+- CartQuestionCircle • CartSearch • CartShare • CartShield
+- CartShopping • CartShoppingFast • CartShoppingFrownSlight • CartShoppingSimple
+- CartShoppingSimpleFast • CartSimpleArrowDown • CartSimpleArrowUp • CartSimpleCheck
+- CartSimpleMinus • CartSimplePlus • CartSimpleXmark • CartSlash
+- CartSparkles • CartStar • CartUser • CartWifi
+- CartXmarkCircle • CashRegister • ConveyorBeltBox • ConveyorBeltBoxCheck
+- ConveyorBeltBoxXmark • ConveyorBeltBoxes • ConveyorBeltEmpty • Diamond
+- Dolly • DollyArrowDown • DollyArrowUp • DollyEmpty
+- DollySimple • DoorSign • DoorSignBolt • DoorSignCheck
+- DoorSignHeart • DoorSignPercent • DoorSignStar • DoorSignText
+- DoorSignXmark • GiftCard • GiftCardAlt • GiftCardRectangle
+- GiftCardSquare • HexagonNft • Package • PackageArrowDownCircle
+- PackageArrowUpCircle • PackageBan • PackageBolt • PackageCheckCircle
+- PackageClock • PackageCode • PackageDollar • PackageExchange
+- PackageExclamationCircle • PackageEye • PackageGear • PackageHeart
+- PackageInfoCircle • PackageLocationPin • PackageLock • PackageMinusCircle
+- PackageMusicNote • PackagePen • PackagePercentCircle • PackagePlusCircle
+- PackageQuestionCircle • PackageSearch • PackageShare • PackageShield
+- PackageSimpleArrowDown • PackageSimpleArrowUp • PackageSimpleBolt • PackageSimpleCheck
+- PackageSimpleDollar • PackageSimpleHeart • PackageSimpleMinus • PackageSimplePercent
+- PackageSimplePlus • PackageSimpleStar • PackageSimpleXmark • PackageSparkles
+- PackageStar • PackageUser • PackageWifi • PackageXmarkCircle
+- QrCode • QrCodeRead • ReceiptArrowDownCircle • ReceiptArrowUpCircle
+- ReceiptBan • ReceiptBolt • ReceiptCheckCircle • ReceiptCheckList
+- ReceiptClock • ReceiptCode • ReceiptDollar • ReceiptExchange
+- ReceiptExclamationCircle • ReceiptEye • ReceiptGear • ReceiptHeart
+- ReceiptInfoCircle • ReceiptList • ReceiptListCheck • ReceiptLocationPin
+- ReceiptLock • ReceiptMinusCircle • ReceiptMusicNote • ReceiptPen
+- ReceiptPercentCircle • ReceiptPlusCircle • ReceiptQuestionCircle • ReceiptSearch
+- ReceiptShare • ReceiptShield • ReceiptSimpleCheck • ReceiptSimpleDollar
+- ReceiptSimpleHeart • ReceiptSimpleMinus • ReceiptSimplePercent • ReceiptSimplePlus
+- ReceiptSimpleStar • ReceiptSimpleXmark • ReceiptSparkles • ReceiptStar
+- ReceiptText • ReceiptUser • ReceiptWifi • ReceiptXmarkCircle
+- Scanner • ScannerAlt • Store • StoreAlt
+- StoreArrowDownCircle • StoreArrowUpCircle • StoreBan • StoreBolt
+- StoreBranch • StoreCheckCircle • StoreClock • StoreCode
+- StoreDollar • StoreExchange • StoreExclamationCircle • StoreEye
+- StoreGear • StoreHeart • StoreInfoCircle • StoreLocationPin
+- StoreLock • StoreMinusCircle • StoreMusicNote • StorePen
+- StorePercentCircle • StorePlusCircle • StoreQuestionCircle • StoreSearch
+- StoreShare • StoreShield • StoreSlash • StoreSparkles
+- StoreStar • StoreUser • StoreWifi • StoreXmarkCircle
+- Store_24 • Store_7 • Tag • TagAlt
+- TagArrowDownCircle • TagArrowUpCircle • TagBan • TagBolt
+- TagCheckCircle • TagClock • TagCode • TagDollar
+- TagExchange • TagExclamationCircle • TagEye • TagGear
+- TagHeart • TagInfoCircle • TagLocationPin • TagLock
+- TagMinusCircle • TagMusicNote • TagPen • TagPercentCircle
+- TagPlusCircle • TagQuestionCircle • TagSearch • TagShare
+- TagShield • TagSimple • TagSimpleDollar • TagSparkles
+- TagStar • TagUser • TagVertical • TagVerticalAlt
+- TagVerticalSimple • TagVerticalSimpleDollar • TagVerticalSimplePercent • TagVerticalSimpleStar
+- TagWifi • TagXmarkCircle • Tags • TagsSimple
+- TicketArrowDownCircle • TicketArrowUpCircle • TicketBan • TicketBolt
+- TicketCheckCircle • TicketClock • TicketCode • TicketDollar
+- TicketExchange • TicketExclamationCircle • TicketEye • TicketGear
+- TicketHeart • TicketInfoCircle • TicketLocationPin • TicketLock
+- TicketMinusCircle • TicketMusicNote • TicketPen • TicketPercentCircle
+- TicketPerforated • TicketPerforatedDots • TicketPlusCircle • TicketQuestionCircle
+- TicketSearch • TicketShare • TicketShield • TicketSimpleBolt
+- TicketSimpleCheck • TicketSimpleDollar • TicketSimpleHeart • TicketSimpleMinus
+- TicketSimplePercent • TicketSimplePlus • TicketSimpleStar • TicketSimpleXmark
+- TicketSparkles • TicketStar • TicketUser • TicketWifi
+- TicketXmarkCircle • Tickets • ToteArrowDownCircle • ToteArrowUpCircle
+- ToteBag • ToteBagAlt • ToteBagSimple • ToteBagSlash
+- ToteBags • ToteBan • ToteBolt • ToteCheckCircle
+- ToteClock • ToteCode • ToteDollar • ToteExchange
+- ToteExclamationCircle • ToteEye • ToteGear • ToteHeart
+- ToteInfoCircle • ToteLocationPin • ToteLock • ToteMinusCircle
+- ToteMusicNote • TotePen • TotePercentCircle • TotePlusCircle
+- ToteQuestionCircle • ToteSearch • ToteShare • ToteShield
+- ToteSimple_24 • ToteSparkles • ToteStar • ToteUser
+- ToteWifi • ToteXmarkCircle
+
+### Date & Time (250 iconos)
+
+- AlarmArrowDownCircle • AlarmArrowUpCircle • AlarmBan • AlarmBolt
+- AlarmCheckCircle • AlarmClock • AlarmClockSimple • AlarmClockSlash
+- AlarmClockThree • AlarmClockTwelve • AlarmClock_1 • AlarmCode
+- AlarmDollar • AlarmExchange • AlarmExclamationCircle • AlarmEye
+- AlarmGear • AlarmHeart • AlarmInfoCircle • AlarmLocationPin
+- AlarmLock • AlarmMinusCircle • AlarmMusicNote • AlarmPen
+- AlarmPercentCircle • AlarmPlusCircle • AlarmQuestionCircle • AlarmSearch
+- AlarmShare • AlarmShield • AlarmSimpleArrowDown • AlarmSimpleArrowUp
+- AlarmSimpleCheck • AlarmSimpleExclamation • AlarmSimpleInfo • AlarmSimpleLock
+- AlarmSimpleLock_1 • AlarmSimpleMinus • AlarmSimplePlus • AlarmSimpleQuestion
+- AlarmSimpleStar • AlarmSimpleXmark • AlarmSnooze • AlarmSparkles
+- AlarmStar • AlarmUser • AlarmWifi • AlarmXmarkCircle
+- Calendar • CalendarAlt • CalendarArrowDownCircle • CalendarArrowUpCircle
+- CalendarBan • CalendarBolt • CalendarCheckCircle • CalendarClock
+- CalendarCode • CalendarDay • CalendarDollar • CalendarExchange
+- CalendarExclamationCircle • CalendarEye • CalendarGear • CalendarHeart
+- CalendarInfoCircle • CalendarLocationPin • CalendarLock • CalendarMinusCircle
+- CalendarMusicNote • CalendarPen • CalendarPercentCircle • CalendarPlusCircle
+- CalendarQuestionCircle • CalendarRange • CalendarSearch • CalendarShare
+- CalendarShield • CalendarSimple • CalendarSimpleArrowDown • CalendarSimpleArrowUp
+- CalendarSimpleCheck • CalendarSimpleExclamation • CalendarSimpleInfo • CalendarSimpleLock
+- CalendarSimpleLock_1 • CalendarSimpleMinus • CalendarSimplePlus • CalendarSimpleQuestion
+- CalendarSimpleStar • CalendarSimpleXmark • CalendarSparkles • CalendarStar
+- CalendarUser • CalendarWeek • CalendarWifi • CalendarXmarkCircle
+- Calendar_1 • Calendar_12 • Calendar_2 • Calendar_24
+- Calendar_3 • Calendar_31 • Calendar_4 • Calendar_5
+- Calendar_6 • Calendar_7 • Calendar_8 • Calendar_9
+- Clock • ClockDesk • ClockEight • ClockEightThirty
+- ClockEleven • ClockElevenThirty • ClockFast • ClockFive
+- ClockFiveThirty • ClockFourThirty • ClockNine • ClockNineThirty
+- ClockOne • ClockOneThirty • ClockSeven • ClockSevenThirty
+- ClockSix • ClockSixThirty • ClockTen • ClockTenThirty
+- ClockThree • ClockThreeThirty • ClockTwelve • ClockTwo
+- ClockTwoThirty • ClockWall • Hourglass • HourglassArrowDownCircle
+- HourglassArrowUpCircle • HourglassBan • HourglassBolt • HourglassCheckCircle
+- HourglassClock • HourglassCode • HourglassDollar • HourglassEnd
+- HourglassExchange • HourglassExclamationCircle • HourglassEye • HourglassGear
+- HourglassHalf • HourglassHeart • HourglassInfoCircle • HourglassLocationPin
+- HourglassLock • HourglassMinusCircle • HourglassMusicNote • HourglassPauseCircle
+- HourglassPen • HourglassPercentCircle • HourglassPlayCircle • HourglassPlusCircle
+- HourglassQuestionCircle • HourglassSearch • HourglassShare • HourglassShield
+- HourglassSparkles • HourglassStar • HourglassStart • HourglassUser
+- HourglassWifi • HourglassXmarkCircle • Snooze • Stopwatch
+- StopwatchAlt • StopwatchArrowDownCircle • StopwatchArrowUpCircle • StopwatchAuto
+- StopwatchBan • StopwatchBolt • StopwatchCheckCircle • StopwatchClock
+- StopwatchCode • StopwatchDollar • StopwatchExchange • StopwatchExclamationCircle
+- StopwatchEye • StopwatchFast • StopwatchGear • StopwatchHeart
+- StopwatchInfoCircle • StopwatchLocationPin • StopwatchLock • StopwatchMinusCircle
+- StopwatchMusicNote • StopwatchPen • StopwatchPercentCircle • StopwatchPlusCircle
+- StopwatchQuestionCircle • StopwatchSearch • StopwatchShare • StopwatchShield
+- StopwatchSimple • StopwatchSimpleArrowDown • StopwatchSimpleArrowUp • StopwatchSimpleCheck
+- StopwatchSimpleExclamation • StopwatchSimpleInfo • StopwatchSimpleLock • StopwatchSimpleLock_1
+- StopwatchSimpleMinus • StopwatchSimplePlus • StopwatchSimpleQuestion • StopwatchSimpleStar
+- StopwatchSimpleXmark • StopwatchSimple_10 • StopwatchSimple_20 • StopwatchSimple_24
+- StopwatchSimple_30 • StopwatchSimple_5 • StopwatchSimple_50 • StopwatchSimple_60
+- StopwatchSimple_7 • StopwatchSimple_70 • StopwatchSimple_70_1 • StopwatchSimple_80
+- StopwatchSimple_90 • StopwatchSlash • StopwatchSparkles • StopwatchStar
+- StopwatchUser • StopwatchWifi • StopwatchXmarkCircle • TimeBackward
+- TimeBackwardExclamation • TimeBackwardPending • TimeBackward_12 • TimeBackward_24
+- TimeBackward_7 • TimeForward • TimeForwardExclamation • TimeForwardPending
+- TimeForward_12 • TimeForward_24 • TimeForward_7 • TimeFuturePast
+- TimeHistory • TimeHistoryAlt • TimePastQuarter • TimePastQuarterTo
+- Timer • Watch
+
+### Multimedia (240 iconos)
+
+- Airplay • AirplayAlt • Album • AlbumMinusCircle
+- AlbumPauseCircle • AlbumPlayCircle • AlbumPlusCircle • AlbumUser
+- AspectRatio_16_9 • AspectRatio_1_1 • AspectRatio_4_3 • Backward
+- BackwardCircle • BackwardFast • BackwardFastCircle • BackwardStep
+- BackwardStepCircle • Clapperboard • ClapperboardAlt • ClapperboardPlay
+- ClapperboardPlayAlt • ClosedCaptioning • ClosedCaptioningSlash • Compress
+- CompressWide • Dial • DialHigh • DialLow
+- DialMax • DialMed • DialMedLow • DialMin
+- DialOff • Eject • EjectCircle • Expand
+- ExpandWide • Film • FilmPhoto • FilmPlay
+- FilmRoll • FilmSlash • Forward • ForwardCircle
+- ForwardFast • ForwardFastCircle • ForwardStep • ForwardStepCircle
+- Gif • HighDefinition • HighQuality • HistoryRectangle
+- HistoryRectangleMusicNote • HistoryRectanglePlay • HistoryRectanglePlus • HistoryRectangleUser
+- HistoryRectangleVertical • Icon360Degrees • Icon4k • Icon8k
+- Image • ImageArrowDown • ImageArrowDownCircle • ImageArrowUp
+- ImageArrowUpCircle • ImageBan • ImageBolt • ImageCheck
+- ImageCheckCircle • ImageCircle • ImageClock • ImageCode
+- ImageDollar • ImageExchange • ImageExclamationCircle • ImageEye
+- ImageGallery • ImageGear • ImageHeart • ImageInfoCircle
+- ImageLocationPin • ImageLock • ImageMinus • ImageMinusCircle
+- ImageMountainSun • ImageMusicNote • ImagePanorama • ImagePen
+- ImagePercentCircle • ImagePlus • ImagePlusCircle • ImageQuestionCircle
+- ImageSearch • ImageShare • ImageShield • ImageSlash
+- ImageSparkles • ImageSquare • ImageSquareArrowDown • ImageSquareArrowDownCircle
+- ImageSquareArrowUp • ImageSquareArrowUpCircle • ImageSquareBan • ImageSquareBolt
+- ImageSquareCheckCircle • ImageSquareClock • ImageSquareCode • ImageSquareDollar
+- ImageSquareExchange • ImageSquareExclamationCircle • ImageSquareEye • ImageSquareGear
+- ImageSquareHeart • ImageSquareInfoCircle • ImageSquareLocationPin • ImageSquareLock
+- ImageSquareMinusCircle • ImageSquareMusicNote • ImageSquarePen • ImageSquarePercentCircle
+- ImageSquarePlus • ImageSquarePlusCircle • ImageSquareQuestionCircle • ImageSquareSearch
+- ImageSquareShare • ImageSquareShield • ImageSquareSlash • ImageSquareSparkles
+- ImageSquareStar • ImageSquareUser • ImageSquareWifi • ImageSquareXmarkCircle
+- ImageStar • ImageUser • ImageWifi • ImageXmark
+- ImageXmarkCircle • Images • LiveStreaming • Music
+- MusicBubbleTag • MusicCircle • MusicCountdown • MusicList
+- MusicListWave • MusicNote • MusicNoteBubbleTag • MusicNoteCircle
+- MusicNoteCountdown • MusicNoteSlash • MusicNoteSquare • MusicSlash
+- MusicSquare • Pause • PauseCircle • PauseSimple
+- PauseSimpleCircle • Play • PlayCircle • PlayHexagon
+- PlayPause • PlayPauseCircle • PlaySquare • PlaybackSpeed
+- Playlist • PlaylistCheck • PlaylistPlus • PlaylistXmark
+- Podcast • RecordAudio • Repeat • Repeat_1
+- Screencast • Shuffle • StandardDefinition • Stop
+- StopCircle • Subtitles • SubtitlesSlash • Subtitles_1
+- TimeNextFastPlay • TimeNextFast_10 • TimeNextFast_15 • TimeNextFast_20
+- TimeNextFast_30 • TimeNextFast_40 • TimeNextFast_5 • TimeNextFast_50
+- TimeNextFast_60 • TimeNextFast_70 • TimeNextFast_80 • TimeNextFast_90
+- TimeNextPlay • TimeNext_10 • TimeNext_15 • TimeNext_20
+- TimeNext_30 • TimeNext_40 • TimeNext_5 • TimeNext_50
+- TimeNext_60 • TimeNext_70 • TimeNext_80 • TimeNext_90
+- TimePastFastPlay • TimePastFast_10 • TimePastFast_15 • TimePastFast_20
+- TimePastFast_30 • TimePastFast_40 • TimePastFast_5 • TimePastFast_50
+- TimePastFast_60 • TimePastFast_70 • TimePastFast_80 • TimePastFast_90
+- TimePastPlay • TimePast_10 • TimePast_15 • TimePast_20
+- TimePast_30 • TimePast_40 • TimePast_5 • TimePast_50
+- TimePast_60 • TimePast_70 • TimePast_80 • TimePast_90
+- Volume • VolumeLow • VolumeMinus • VolumeOff
+- VolumeOffSlash • VolumePlus • VolumeSlash • VolumeXmark
+- Waveform • WaveformCircle • WaveformLines • WaveformSquare
+
+### Other (222 iconos)
+
+- AddressCard • AlarmClock • AngleDownCircle • AngleDownSmall
+- AngleDownSquare • AngleLeftCircle • AngleLeftSmall • AngleLeftSquare
+- AngleRightCircle • AngleRightSmall • AngleRightSquare • AngleUpCircle
+- AngleUpSmall • AngleUpSquare • AnglesLeft • AnglesLeftSmall
+- AnglesRight • AnglesRightSmall • ArrowDownCircle • ArrowDownLeftCircle
+- ArrowDownLeftSmall • ArrowDownLeftSquare • ArrowDownRightCircle • ArrowDownRightSmall
+- ArrowDownRightSquare • ArrowDownSmall • ArrowDownSquare • ArrowLeftCircle
+- ArrowLeftSmall • ArrowLeftSquare • ArrowRightCircle • ArrowRightSmall
+- ArrowRightSquare • ArrowRotateRight • ArrowUpCircle • ArrowUpLeftCircle
+- ArrowUpLeftSmall • ArrowUpLeftSquare • ArrowUpRightCircle • ArrowUpRightSmall
+- ArrowUpRightSquare • ArrowUpSmall • ArrowUpSquare • ArrowsRotate
+- At • Backward • BadgePercent • Bank
+- BasketShopping • Bell • BellSlash • BitcoinCircle
+- Bluetooth • Bolt • BookOpen • BookSimple
+- BookTurnPage • BookmarkSimple • BoxSimple • Briefcase
+- BuildingAlt • CalculatorSimple • Calendar • Camera
+- Car • CaretLeft • CaretLeftCircle • CaretLeftSquare
+- CaretRight • CaretRightCircle • CaretRightSquare • CartShoppingSimple
+- ChartColumn • ChartPieSimple • ChartTrendUpAlt • ChatDots
+- Check • CheckCircle • CheckListSquare • Clipboard
+- Clock • Cloud • CloudConnection • CloudSun
+- Code • Coins • CommentDots • CreditCard
+- Crown • Cursor • Display • DollarArrowDown
+- DollarArrowUp • DollarCircle • DownloadBracket • Droplet
+- Envelope • EthereumCircle • EuroCircle • ExclamationCircle
+- ExclamationTriangle • Eye • EyeSlash • FaceFrown
+- FaceSmile • FileSimpleArrowDown • FileSimpleArrowUp • FileText
+- Film • Filter • FlagSwallowtail • Folder
+- FolderArrowDown • FolderArrowUp • FolderConnection • ForkKnife
+- Forward • GameControllerSimple • Gear • GiftSimple
+- GlassesRound • GlobeSimple • GridSquare • HandHoldingDollar
+- HeadphonesSimple • HeartCircle • HeartSimple • HeartSimpleSlash
+- HeartSquare • House • HouseDoorAlt • Image
+- Inbox • InfoCircle • KeySimpleSquare • LayerGroup
+- Layout_1 • LinkSimple • ListCheckSquare • ListSquare
+- LocationPinLine • LockSimple • LoginBracket • LogoutBracket
+- Memo • MenuBars • MenuBarsCircle • MenuBarsSquare
+- MessageDots • Microchip • Microphone • MicrophoneSlash
+- Minus • MinusCircle • Mobile • MoneyBill
+- MoneyBillReceive • MoneyBillSend • MoneyBillWaveDollar • MoneyBills
+- Moon • MoreHorizontalCircle • MoreVerticalCircle • Music
+- ParkingSquare • Pause • Pen • PercentCircle
+- PercentSquare • Phone • PhoneSlash • Play
+- PlayCircle • Plus • PlusCircle • PollSquare
+- PollSquareNotification • PresentationPlay • QuestionCircle • Ranking
+- Repeat • Search • SendAlt • Share
+- Shield • ShieldSlash • SignalStream • SlidersSimple
+- SmartWatch • Sort • SortDownShortWide • SortDownUp
+- SortUpShortWide • SparklesAi • Star • StarCircle
+- StarSlash • StarSquare • Stop • Stopwatch
+- Sun • Tablet • TagSimple • TicketSimplePercent
+- Trash • TrophySimple • Tv • UnlockSimple
+- UploadBracket • User • UserCheck • UserCircle
+- UserMinus • UserPlus • VectorSquare • Video
+- Volume • VolumeSlash • Wifi • WifiSlash
+- Xmark • XmarkCircle
+
+### Communication (213 iconos)
+
+- AddressBook • AddressBookAt • AddressBookPhone • AddressBookSparkles
+- At • DeleteLeft • DeleteLeftXmark • DeleteRight
+- DeleteRightXmark • Dialpad • Envelope • EnvelopeArrowDown
+- EnvelopeArrowLeft • EnvelopeArrowLeftUp • EnvelopeArrowRight • EnvelopeArrowRightDown
+- EnvelopeArrowUp • EnvelopeBan • EnvelopeBolt • EnvelopeBubbleTag
+- EnvelopeCheck • EnvelopeCircle • EnvelopeClock • EnvelopeCode
+- EnvelopeDollar • EnvelopeExchange • EnvelopeExclamation • EnvelopeEye
+- EnvelopeFast • EnvelopeGear • EnvelopeHeart • EnvelopeInfo
+- EnvelopeLocationPin • EnvelopeLock • EnvelopeMinus • EnvelopeMusicNote
+- EnvelopeNotification • EnvelopeOpen • EnvelopeOpenArrowDown • EnvelopeOpenArrowUp
+- EnvelopeOpenBan • EnvelopeOpenBolt • EnvelopeOpenCheck • EnvelopeOpenClock
+- EnvelopeOpenCode • EnvelopeOpenDollar • EnvelopeOpenEmpty • EnvelopeOpenExchange
+- EnvelopeOpenExclamation • EnvelopeOpenEye • EnvelopeOpenGear • EnvelopeOpenHeart
+- EnvelopeOpenInfo • EnvelopeOpenLocationPin • EnvelopeOpenLock • EnvelopeOpenMinus
+- EnvelopeOpenMusicNote • EnvelopeOpenPen • EnvelopeOpenPercent • EnvelopeOpenPlus
+- EnvelopeOpenPulse • EnvelopeOpenQuestion • EnvelopeOpenSearch • EnvelopeOpenShare
+- EnvelopeOpenShield • EnvelopeOpenSparkles • EnvelopeOpenStar • EnvelopeOpenText
+- EnvelopeOpenUser • EnvelopeOpenWifi • EnvelopeOpenXmark • EnvelopePause
+- EnvelopePen • EnvelopePercentCircle • EnvelopePlay • EnvelopePlus
+- EnvelopePoll • EnvelopePos • EnvelopePulse • EnvelopeQuestion
+- EnvelopeSearch • EnvelopeShare • EnvelopeShield • EnvelopeSparkles
+- EnvelopeSquare • EnvelopeStar • EnvelopeUnread • EnvelopeUser
+- EnvelopeWifi • EnvelopeXmark • Envelopes • Inbox
+- InboxFull • InboxIn • InboxOut • Language
+- LanguageBubble • LanguageBubbleTag • LanguageCircle • LanguageSquare
+- Mailbox • Newspaper • Phone • PhoneBubbleTag
+- PhoneCall • PhoneCallCheck • PhoneCallExclamation • PhoneCallHistory
+- PhoneCallPlus • PhoneCallQuestion • PhoneCallXmark • PhoneChatBubble
+- PhoneCircle • PhoneClock • PhoneFlip • PhoneFlipBubbleTag
+- PhoneFlipCall • PhoneFlipCircle • PhoneFlipSlash • PhoneFlipSquare
+- PhoneForward • PhoneForward_1 • PhoneForward_2 • PhoneHangup
+- PhoneHangupBubbleTag • PhoneHangupCircle • PhoneHangupSquare • PhoneIncoming
+- PhoneMissed • PhoneOutgoing • PhonePause • PhonePlus
+- PhoneSlash • PhoneSquare • PhoneTty • PhoneXmark
+- Phone_1 • Phone_2 • Send • SendAlt
+- SendArrowDownCircle • SendArrowDownCircleAlt • SendArrowUpCircle • SendArrowUpCircleAlt
+- SendBan • SendBanAlt • SendBolt • SendBoltAlt
+- SendCheckCircle • SendCheckCircleAlt • SendClock • SendClockAlt
+- SendCode • SendCodeAlt • SendDollar • SendDollarAlt
+- SendExchange • SendExchangeAlt • SendExclamationCircle • SendExclamationCircleAlt
+- SendEye • SendEyeAlt • SendGear • SendGearAlt
+- SendHeart • SendHeartAlt • SendInfoCircle • SendInfoCircleAlt
+- SendLaunch • SendLaunchAlt • SendLocationPin • SendLocationPinAlt
+- SendLock • SendLockAlt • SendMinusCircle • SendMinusCircleAlt
+- SendMusicNote • SendMusicNoteAlt • SendPauseCircle • SendPauseCircleAlt
+- SendPen • SendPenAlt • SendPercentCircle • SendPercentCircleAlt
+- SendPlayCircle • SendPlayCircleAlt • SendPlusCircle • SendPlusCircleAlt
+- SendQuestionCircle • SendQuestionCircleAlt • SendRight • SendRightAlt
+- SendSearch • SendSearchAlt • SendShare • SendShareAlt
+- SendShield • SendShieldAlt • SendSparkles • SendSparklesAlt
+- SendStar • SendStarAlt • SendUp • SendUpAlt
+- SendUser • SendUserAlt • SendWifi • SendWifiAlt
+- SendXmarkCircle • SendXmarkCircleAlt • Share • ShareCircle
+- Voicemail
+
+### 1-UI Basics (204 iconos)
+
+- AdRectangle • AiSparkle • Award • BasketballHoop
+- Bath • Bed • BedBunk • BedEmpty
+- BedFront • Bell • BellArrowDown • BellArrowUp
+- BellBan • BellBolt • BellCheck • BellClock
+- BellCode • BellDollar • BellExchange • BellExclamation
+- BellEye • BellHeart • BellInfo • BellLocationPin
+- BellLock • BellMinus • BellMusicNote • BellNotification
+- BellOn • BellPen • BellPercent • BellPlus
+- BellQuestion • BellRing • BellSearch • BellShare
+- BellShield • BellSlash • BellSnooze • BellSparkles
+- BellStar • BellUnlock • BellUser • BellWifi
+- BellXmark • Bin • Bolt • BoltA
+- BoltCircle • BoltFast • BoltLightning • BoltLightningA
+- BoltLightningCircle • BoltLightningFast • BoltLightningSlash • BoltLightningSquare
+- BoltSlash • BoltSquare • Brain • BrainAi
+- Bullhorn • BullhornOn • BullseyeArrow • Burger
+- Bus • Campfire • Car • CloudMoon
+- CloudSun • Code • CodeCircle • CodeSimple
+- CodeSimpleCircle • CodeSimpleSquare • CodeSquare • Command
+- Crosshairs • CrosshairsSimple • Crown • Cursor
+- CursorClick • Cycling • DoorClosed • DoorOpen
+- DragHorizontal • DragVertical • Dumbbell • Fire
+- FirePercent • Flask • Flower • FoodTray
+- ForkKnife • Gear • GearCircle • GearSquare
+- GiftSimple • Glasses • GlobeEarth • Hashtag
+- IceCream • LampFloor • LayoutSidebar • LayoutSidebarAngleLeft
+- LayoutSidebarAngleRight • LayoutSidebarRtl • Layout_1 • Layout_2
+- Leaf • Login • LoginArc • LoginBracket
+- Logout • LogoutArc • LogoutBracket • Magnet
+- MagnetAttraction • Medal • Megaphone • Meteor
+- Moon • Mountain • MugSaucer • Nut
+- Pants • PartyBell • PartyHorn • Passport
+- Paw • Pills • PizzaSlice • ProRectangle
+- PuzzlePiece • RocketLaunch • ScreenCursor • ScreenCursorSparkles
+- Search • SearchArrowDown • SearchArrowUp • SearchBan
+- SearchBolt • SearchCheck • SearchClock • SearchCode
+- SearchDollar • SearchExchange • SearchExclamation • SearchEye
+- SearchHeart • SearchInfo • SearchLocationPin • SearchLock
+- SearchMinus • SearchMusicNote • SearchPen • SearchPercent
+- SearchPlay • SearchPlus • SearchPoll • SearchQuestion
+- SearchShare • SearchShield • SearchShine • SearchSparkles
+- SearchStar • SearchText • SearchUnlock • SearchUnlock_1
+- SearchUser • SearchWifi • SearchXmark • Seedling
+- SeoRectangle • Shirt • Shoes • ShoesRunning
+- Shower • SliderScreen • SlidersSimple • SlidersSimpleCircle
+- SlidersSimpleSquare • Sofa • SparklesAi • Speedometer
+- SpeedometerSimple • StadiumFootball • Stethoscope • Story
+- Sun • SunLow • TennisBall • ToggleOnOff
+- TrashPulse • Tree • TrophySimple • TrophyStar
+- Truck • TruckPauseCircle • TruckPlayCircle • Umbrella
+- UmbrellaBeach • Vials • WavePulse • Wrench
+
+### Buildings (193 iconos)
+
+- Apartment • Archway • Bank • BankArrowDownCircle
+- BankArrowLeftUp • BankArrowRightDown • BankArrowUpCircle • BankBan
+- BankBolt • BankCheckCircle • BankClock • BankCode
+- BankCoins • BankDollar • BankExchange • BankExclamationCircle
+- BankEye • BankGear • BankGem • BankHeart
+- BankInfoCircle • BankLocationPin • BankLock • BankMinusCircle
+- BankMusicNote • BankPen • BankPercentCircle • BankPlusCircle
+- BankQuestionCircle • BankSearch • BankShare • BankShield
+- BankSlash • BankSparkles • BankStar • BankUser
+- BankWifi • BankXmarkCircle • Building • BuildingAlt
+- BuildingArrowDownCircle • BuildingArrowUpCircle • BuildingBan • BuildingBolt
+- BuildingCheckCircle • BuildingClock • BuildingCode • BuildingCoins
+- BuildingDollar • BuildingExchange • BuildingExclamationCircle • BuildingEye
+- BuildingFire • BuildingGear • BuildingHeart • BuildingInfoCircle
+- BuildingLocationPin • BuildingLock • BuildingMinusCircle • BuildingModern
+- BuildingModernAlt • BuildingModernArrowDownCircle • BuildingModernArrowUpCircle • BuildingModernBan
+- BuildingModernBolt • BuildingModernCheckCircle • BuildingModernClock • BuildingModernCode
+- BuildingModernCoins • BuildingModernDollar • BuildingModernExchange • BuildingModernExclamationCircle
+- BuildingModernEye • BuildingModernFire • BuildingModernGear • BuildingModernHeart
+- BuildingModernInfoCircle • BuildingModernLocationPin • BuildingModernLock • BuildingModernMinusCircle
+- BuildingModernMusicNote • BuildingModernPen • BuildingModernPercentCircle • BuildingModernPlusCircle
+- BuildingModernQuestionCircle • BuildingModernSearch • BuildingModernShare • BuildingModernShield
+- BuildingModernSparkles • BuildingModernStar • BuildingModernTree • BuildingModernUser
+- BuildingModernWifi • BuildingModernXmarkCircle • BuildingMusicNote • BuildingPen
+- BuildingPercentCircle • BuildingPlusCircle • BuildingQuestionCircle • BuildingSearch
+- BuildingShare • BuildingShield • BuildingSparkles • BuildingStar
+- BuildingTree • BuildingUser • BuildingWifi • BuildingXmarkCircle
+- Buildings • BuildingsModern • Castle • City
+- Fort • Hospital • House • HouseArrowDown
+- HouseArrowUp • HouseBan • HouseBolt • HouseCheck
+- HouseClock • HouseCode • HouseCrack • HouseDay
+- HouseDollar • HouseDoor • HouseDoorAlt • HouseDoorArch
+- HouseExchange • HouseExclamation • HouseEye • HouseGear
+- HouseHeart • HouseInfo • HouseLaptop • HouseLocationPin
+- HouseLock • HouseMinus • HouseMusicNote • HousePen
+- HousePercent • HousePlus • HouseQuestion • HouseRoof
+- HouseRoofArrowDownCircle • HouseRoofArrowUpCircle • HouseRoofBan • HouseRoofBolt
+- HouseRoofCheckCircle • HouseRoofClock • HouseRoofCode • HouseRoofDollar
+- HouseRoofExchange • HouseRoofExclamationCircle • HouseRoofEye • HouseRoofFire
+- HouseRoofGear • HouseRoofHeart • HouseRoofInfoCircle • HouseRoofLocationPin
+- HouseRoofLock • HouseRoofMinusCircle • HouseRoofMusicNote • HouseRoofPen
+- HouseRoofPercentCircle • HouseRoofPlusCircle • HouseRoofQuestionCircle • HouseRoofSearch
+- HouseRoofShare • HouseRoofShield • HouseRoofSimple • HouseRoofSimple_1
+- HouseRoofSparkles • HouseRoofStar • HouseRoofUser • HouseRoofWifi
+- HouseRoofXmarkCircle • HouseSearch • HouseShare • HouseShield
+- HouseSimple • HouseSparkles • HouseStar • HouseUser
+- HouseWifi • HouseXmark • Industry • Kaaba
+- School • University • Warehouse • WarehouseFull
+- WarehouseOpen
+
+### Files (188 iconos)
+
+- ArchiveBox • Cloud • CloudArrowDown • CloudArrowUp
+- CloudBan • CloudBolt • CloudCheck • CloudClock
+- CloudCode • CloudConnection • CloudDollar • CloudDownload
+- CloudExchange • CloudExclamation • CloudEye • CloudGear
+- CloudHeart • CloudInfo • CloudLocationPin • CloudLock
+- CloudMinus • CloudMusic • CloudPen • CloudPercent
+- CloudPlus • CloudQuestion • CloudReload • CloudSearch
+- CloudShare • CloudShield • CloudSlash • CloudSparkles
+- CloudStar • CloudUpload • CloudUser • CloudWifi
+- CloudXmark • CopyCheck • CopyMinus • CopyPlus
+- CopyXmark • File • FileArchive • FileArrowDownCircle
+- FileArrowUpCircle • FileAudio • FileBan • FileBolt
+- FileBreak • FileCad • FileCheckCircle • FileClock
+- FileCode • FileCss • FileCsv • FileDoc
+- FileDollar • FileEps • FileExcel • FileExchange
+- FileExclamationCircle • FileExport • FileEye • FileFig
+- FileGear • FileGif • FileHalfDashed • FileHeart
+- FileHtml • FileImage • FileImport • FileInfoCircle
+- FileJpg • FileJs • FileJsx • FileKey
+- FileList • FileListCheck • FileList_1 • FileLocationPin
+- FileLock • FileMinusCircle • FileMov • FileMp3
+- FileMp4 • FileMusicNote • FilePdf • FilePen
+- FilePercentCircle • FilePhp • FilePlusCircle • FilePng
+- FilePowerpoint • FilePpt • FilePrescription • FilePulse
+- FilePy • FileQuestionCircle • FileScan • FileSearch
+- FileShare • FileShield • FileSimpleArrowDown • FileSimpleArrowUp
+- FileSimpleBolt • FileSimpleChartPie • FileSimpleCheck • FileSimpleCode
+- FileSimpleDollar • FileSimpleExclamation • FileSimpleHeart • FileSimpleInfo
+- FileSimpleMinus • FileSimpleMusic • FileSimplePlus • FileSimplePoll
+- FileSimpleQuestion • FileSimpleSearch • FileSimpleSparkles • FileSimpleStar
+- FileSimpleUser • FileSimpleXmark • FileSparkles • FileSpreadsheet
+- FileSql • FileStar • FileSvg • FileText
+- FileUser • FileVector • FileVideo • FileWifi
+- FileWord • FileXls • FileXmarkCircle • FileXml
+- FileZip • Files • FilesSimple • Folder
+- FolderArrowDown • FolderArrowUp • FolderBan • FolderBolt
+- FolderBookmark • FolderCheck • FolderClock • FolderClosed
+- FolderCode • FolderConnection • FolderDollar • FolderExchange
+- FolderExclamation • FolderEye • FolderGear • FolderHeart
+- FolderImage • FolderInfo • FolderLocationPin • FolderLock
+- FolderMinus • FolderMusicNote • FolderOpen • FolderPen
+- FolderPercent • FolderPlus • FolderQuestion • FolderSearch
+- FolderShare • FolderShield • FolderSparkles • FolderStar
+- FolderUser • FolderWifi • FolderXmark • Folders
+- FoldersArrowUp • FoldersCheck • FoldersMinus • FoldersPlus
+- FoldersXmark • Page • PageCheckList • PageList
+- PageListCheck • PageText • Page_1 • Pages
+
+### Documents (184 iconos)
+
+- Clipboard • ClipboardArrowDown • ClipboardArrowUp • ClipboardBan
+- ClipboardBolt • ClipboardCheck • ClipboardCheckList • ClipboardClock
+- ClipboardCode • ClipboardDollar • ClipboardExchange • ClipboardExclamation
+- ClipboardEye • ClipboardGear • ClipboardHeart • ClipboardInfo
+- ClipboardList • ClipboardListCheck • ClipboardLocationPin • ClipboardLock
+- ClipboardMinus • ClipboardMusicNote • ClipboardPast • ClipboardPen
+- ClipboardPercent • ClipboardPlus • ClipboardQuestion • ClipboardSearch
+- ClipboardShare • ClipboardShield • ClipboardSparkles • ClipboardStar
+- ClipboardText • ClipboardUser • ClipboardWifi • ClipboardXmark
+- Document • DocumentCheckList • DocumentList • DocumentListCheck
+- Memo • MemoArrowDownCircle • MemoArrowLeftUp • MemoArrowRightDown
+- MemoArrowUpCircle • MemoBan • MemoBolt • MemoCheckCircle
+- MemoCheckList • MemoCheckListArrowDownCircle • MemoCheckListArrowLeftUp • MemoCheckListArrowRightDown
+- MemoCheckListArrowUpCircle • MemoCheckListBan • MemoCheckListBolt • MemoCheckListCheckCircle
+- MemoCheckListClock • MemoCheckListCode • MemoCheckListDollar • MemoCheckListExchange
+- MemoCheckListExclamationCircle • MemoCheckListEye • MemoCheckListGear • MemoCheckListHeart
+- MemoCheckListInfoCircle • MemoCheckListLocationPin • MemoCheckListLock • MemoCheckListMinusCircle
+- MemoCheckListMusicNote • MemoCheckListPen • MemoCheckListPercentCircle • MemoCheckListPlusCircle
+- MemoCheckListQuestionCircle • MemoCheckListSearch • MemoCheckListShare • MemoCheckListShield
+- MemoCheckListSparkles • MemoCheckListStar • MemoCheckListUser • MemoCheckListWifi
+- MemoCheckListXmarkCircle • MemoClock • MemoCode • MemoDollar
+- MemoExchange • MemoExclamationCircle • MemoEye • MemoGear
+- MemoHeart • MemoInfoCircle • MemoList • MemoListArrowDownCircle
+- MemoListArrowLeftUp • MemoListArrowRightDown • MemoListArrowUpCircle • MemoListBan
+- MemoListBolt • MemoListCheck • MemoListCheckArrowDownCircle • MemoListCheckArrowLeftUp
+- MemoListCheckArrowRightDown • MemoListCheckArrowUpCircle • MemoListCheckBan • MemoListCheckBolt
+- MemoListCheckCheckCircle • MemoListCheckCircle • MemoListCheckClock • MemoListCheckCode
+- MemoListCheckDollar • MemoListCheckExchange • MemoListCheckExclamationCircle • MemoListCheckEye
+- MemoListCheckGear • MemoListCheckHeart • MemoListCheckInfoCircle • MemoListCheckLocationPin
+- MemoListCheckLock • MemoListCheckMinusCircle • MemoListCheckMusicNote • MemoListCheckPen
+- MemoListCheckPercentCircle • MemoListCheckPlusCircle • MemoListCheckQuestionCircle • MemoListCheckSearch
+- MemoListCheckShare • MemoListCheckShield • MemoListCheckSparkles • MemoListCheckStar
+- MemoListCheckUser • MemoListCheckWifi • MemoListCheckXmarkCircle • MemoListClock
+- MemoListCode • MemoListDollar • MemoListExchange • MemoListExclamationCircle
+- MemoListEye • MemoListGear • MemoListHeart • MemoListInfoCircle
+- MemoListLocationPin • MemoListLock • MemoListMinusCircle • MemoListMusicNote
+- MemoListPen • MemoListPercentCircle • MemoListPlusCircle • MemoListQuestionCircle
+- MemoListSearch • MemoListShare • MemoListShield • MemoListSparkles
+- MemoListStar • MemoListUser • MemoListWifi • MemoListXmarkCircle
+- MemoLocationPin • MemoLock • MemoMinusCircle • MemoMusicNote
+- MemoPen • MemoPercentCircle • MemoPlusCircle • MemoQuestionCircle
+- MemoSearch • MemoShare • MemoShield • MemoSparkles
+- MemoStar • MemoUser • MemoWifi • MemoXmarkCircle
+- Memos • MemosCheckList • MemosList • MemosListCheck
+- Note • Notebook • StatusNotification • StatusNotificationAlt
+- StickyNote • StickyNoteCircle • StickyNoteCircleText • StickyNoteText
+
+### Payment & Money (183 iconos)
+
+- CardArrowDown • CardArrowDownCircle • CardArrowLeft • CardArrowLeftUp
+- CardArrowRight • CardArrowRightDown • CardArrowUp • CardArrowUpCircle
+- CardBan • CardBolt • CardCheck • CardCheckCircle
+- CardClock • CardCode • CardCoinSwap • CardCoinSwap_1
+- CardCoins • CardDollar • CardExchange • CardExclamationCircle
+- CardEye • CardGear • CardHeart • CardInfoCircle
+- CardLocationPin • CardLock • CardMinus • CardMinusCircle
+- CardMoneySwap • CardMusicNote • CardPen • CardPercentCircle
+- CardPlus • CardPlusCircle • CardQuestionCircle • CardSearch
+- CardShare • CardShield • CardSparkles • CardStar
+- CardTrendDown • CardTrendUp • CardUser • CardWifi
+- CardXmark • CardXmarkCircle • Coin • CoinFront
+- CoinFrontBitcoin • CoinFrontDollar • CoinFrontEthereum • CoinFrontEuro
+- CoinFrontSwap • CoinFrontSwapBitcoin • CoinFrontSwapDollar • CoinFrontSwapEthereum
+- CoinFrontSwapEuro • CoinFrontSwapXmark • CoinFrontXmark • CoinSwap
+- CoinVertical • Coins • CoinsFront • CoinsFrontBitcoin
+- CoinsFrontDollar • CoinsFrontEthereum • CoinsFrontEuro • CoinsFrontXmark
+- CreditCard • CreditCardPos • CreditCardRecharge • CreditCardSlash
+- CreditCardSwap • CreditCards • InvoiceDollar • InvoiceDollarAlt
+- MoneyArrowDown • MoneyArrowDownCircle • MoneyArrowLeft • MoneyArrowLeftUp
+- MoneyArrowRight • MoneyArrowRightDown • MoneyArrowUp • MoneyArrowUpCircle
+- MoneyBan • MoneyBill • MoneyBillDollar • MoneyBillReceive
+- MoneyBillRecharge • MoneyBillSend • MoneyBillSimple • MoneyBillSimpleDollar
+- MoneyBillSimpleReceive • MoneyBillSimpleRecharge • MoneyBillSimpleSend • MoneyBillSimpleSlash
+- MoneyBillSimpleTransfer • MoneyBillSimpleWave • MoneyBillSlash • MoneyBillTransfer
+- MoneyBillWave • MoneyBillWaveDollar • MoneyBills • MoneyBillsSimple
+- MoneyBillsSimpleWave • MoneyBillsWave • MoneyBillsWaveDollar • MoneyBolt
+- MoneyCardSwap • MoneyCheck • MoneyCheckCircle • MoneyClock
+- MoneyCode • MoneyDollar • MoneyExchange • MoneyExclamationCircle
+- MoneyEye • MoneyGear • MoneyHeart • MoneyInfoCircle
+- MoneyLocationPin • MoneyLock • MoneyMinusCircle • MoneyMusicNote
+- MoneyPen • MoneyPercentCircle • MoneyPlus • MoneyPlusCircle
+- MoneyPlus_1 • MoneyQuestionCircle • MoneySearch • MoneyShare
+- MoneyShield • MoneySimpleWithdrawal • MoneySparkles • MoneyStar
+- MoneySwap • MoneyTrendDown • MoneyTrendUp • MoneyUser
+- MoneyWifi • MoneyWithdrawal • MoneyXmark • MoneyXmarkCircle
+- Sack • SackBitcoin • SackDollar • SackEthereum
+- SackEuro • SackXmark • Wallet • WalletArrowDownCircle
+- WalletArrowUpCircle • WalletBan • WalletBolt • WalletCheckCircle
+- WalletClock • WalletCode • WalletDollar • WalletExchange
+- WalletExclamationCircle • WalletEye • WalletGear • WalletHeart
+- WalletInfoCircle • WalletLocationPin • WalletLock • WalletMinusCircle
+- WalletMusicNote • WalletPen • WalletPercentCircle • WalletPlusCircle
+- WalletQuestionCircle • WalletSearch • WalletShare • WalletShield
+- WalletSimple • WalletSlash • WalletSparkles • WalletStar
+- WalletUser • WalletWifi • WalletXmarkCircle
+
+### Currencies (168 iconos)
+
+- BitcoinArrowDown • BitcoinArrowDownCircle • BitcoinArrowUp • BitcoinArrowUpCircle
+- BitcoinBan • BitcoinBolt • BitcoinBubbleTag • BitcoinCheck
+- BitcoinCheckCircle • BitcoinCircle • BitcoinClock • BitcoinCode
+- BitcoinCountdown • BitcoinDollar • BitcoinExchange • BitcoinExclamationCircle
+- BitcoinEye • BitcoinGear • BitcoinHeart • BitcoinInfoCircle
+- BitcoinLocationPin • BitcoinLock • BitcoinMinusCircle • BitcoinMusicNote
+- BitcoinPen • BitcoinPercentCircle • BitcoinPlus • BitcoinPlusCircle
+- BitcoinQuestionCircle • BitcoinReload • BitcoinReload_1 • BitcoinSearch
+- BitcoinShare • BitcoinShield • BitcoinSign • BitcoinSparkles
+- BitcoinSquare • BitcoinStar • BitcoinUser • BitcoinWifi
+- BitcoinXmark • BitcoinXmarkCircle • DollarArrowDown • DollarArrowDownCircle
+- DollarArrowDownCircle_1 • DollarArrowUp • DollarArrowUpCircle • DollarArrowUpCircle_1
+- DollarBan • DollarBan_1 • DollarBolt • DollarBolt_1
+- DollarBubbleTag • DollarCheck • DollarCheckCircle • DollarCheckCircle_1
+- DollarCircle • DollarClock • DollarClock_1 • DollarCode
+- DollarCode_1 • DollarCountdown • DollarDollar • DollarDollar_1
+- DollarExchange • DollarExchange_1 • DollarExclamationCircle • DollarExclamationCircle_1
+- DollarEye • DollarEye_1 • DollarGear • DollarGear_1
+- DollarHeart • DollarHeart_1 • DollarInfoCircle • DollarInfoCircle_1
+- DollarLocationPin • DollarLocationPin_1 • DollarLock • DollarLock_1
+- DollarMinusCircle • DollarMinusCircle_1 • DollarMusicNote • DollarMusicNote_1
+- DollarPen • DollarPen_1 • DollarPercentCircle • DollarPercentCircle_1
+- DollarPlus • DollarPlusCircle • DollarPlusCircle_1 • DollarQuestionCircle
+- DollarQuestionCircle_1 • DollarReload • DollarReload_1 • DollarSearch
+- DollarSearch_1 • DollarShare • DollarShare_1 • DollarShield
+- DollarShield_1 • DollarSign • DollarSparkles • DollarSparkles_1
+- DollarSquare • DollarStar • DollarStar_1 • DollarUser
+- DollarUser_1 • DollarWifi • DollarWifi_1 • DollarXmark
+- DollarXmarkCircle • DollarXmarkCircle_1 • EthereumArrowDown • EthereumArrowUp
+- EthereumBubbleTag • EthereumCheck • EthereumCircle • EthereumCountdown
+- EthereumPlus • EthereumReload • EthereumReload_1 • EthereumSign
+- EthereumSquare • EthereumXmark • EuroArrowDown • EuroArrowDownCircle
+- EuroArrowUp • EuroArrowUpCircle • EuroBan • EuroBolt
+- EuroBubbleTag • EuroCheck • EuroCheckCircle • EuroCircle
+- EuroClock • EuroCode • EuroCountdown • EuroDollar
+- EuroExchange • EuroExclamationCircle • EuroEye • EuroGear
+- EuroHeart • EuroInfoCircle • EuroLocationPin • EuroLock
+- EuroMinusCircle • EuroMusicNote • EuroPen • EuroPercentCircle
+- EuroPlus • EuroPlusCircle • EuroQuestionCircle • EuroReload
+- EuroReload_1 • EuroSearch • EuroShare • EuroShield
+- EuroSign • EuroSparkles • EuroSquare • EuroStar
+- EuroUser • EuroWifi • EuroXmark • EuroXmarkCircle
+
+### Arrows (150 iconos)
+
+- AngleDown • AngleDownCircle • AngleDownSmall • AngleDownSquare
+- AngleLeft • AngleLeftCircle • AngleLeftSmall • AngleLeftSquare
+- AngleRight • AngleRightCircle • AngleRightSmall • AngleRightSquare
+- AngleUp • AngleUpCircle • AngleUpSmall • AngleUpSquare
+- AnglesDown • AnglesDownSmall • AnglesDownUp • AnglesLeft
+- AnglesLeftSmall • AnglesRight • AnglesRightSmall • AnglesUp
+- AnglesUpDown • AnglesUpSmall • ArrowDown • ArrowDownCircle
+- ArrowDownFromLine • ArrowDownFromLineCircle • ArrowDownFromLineSquare • ArrowDownLeft
+- ArrowDownLeftCircle • ArrowDownLeftFromSquare • ArrowDownLeftSmall • ArrowDownLeftSquare
+- ArrowDownLine • ArrowDownLineCircle • ArrowDownLineSquare • ArrowDownRight
+- ArrowDownRightCircle • ArrowDownRightSmall • ArrowDownRightSquare • ArrowDownSmall
+- ArrowDownSquare • ArrowLeft • ArrowLeftCircle • ArrowLeftFromLine
+- ArrowLeftFromLineCircle • ArrowLeftFromLineSquare • ArrowLeftLine • ArrowLeftLineCircle
+- ArrowLeftLineSquare • ArrowLeftSmall • ArrowLeftSquare • ArrowRedo
+- ArrowRight • ArrowRightCircle • ArrowRightFromLine • ArrowRightFromLineCircle
+- ArrowRightFromLineSquare • ArrowRightLeft • ArrowRightLeftSimple • ArrowRightLine
+- ArrowRightLineCircle • ArrowRightLineSquare • ArrowRightSmall • ArrowRightSquare
+- ArrowRotateLeft • ArrowRotateRight • ArrowTurnDown • ArrowTurnDownLeft
+- ArrowTurnDownRight • ArrowTurnLeft • ArrowTurnLeftDown • ArrowTurnLeftUp
+- ArrowTurnRight • ArrowTurnUp • ArrowUndo • ArrowUp
+- ArrowUpCircle • ArrowUpDown • ArrowUpDownSimple • ArrowUpFromLine
+- ArrowUpFromLineCircle • ArrowUpFromLineSquare • ArrowUpLeft • ArrowUpLeftCircle
+- ArrowUpLeftSmall • ArrowUpLeftSquare • ArrowUpLine • ArrowUpLineCircle
+- ArrowUpLineSquare • ArrowUpRight • ArrowUpRightCircle • ArrowUpRightFromSquare
+- ArrowUpRightSmall • ArrowUpRightSquare • ArrowUpSmall • ArrowUpSquare
+- ArrowsCompress • ArrowsExpand • ArrowsFromLineHorizontal • ArrowsFromLineVertical
+- ArrowsHeight • ArrowsLeftRight • ArrowsMove • ArrowsOut
+- ArrowsRepeat • ArrowsRetweet • ArrowsRotate • ArrowsToLineHorizontal
+- ArrowsToLineVertical • ArrowsUpDown • ArrowsWidth • CaretDown
+- CaretDownCircle • CaretDownSquare • CaretLeft • CaretLeftCircle
+- CaretLeftSquare • CaretRight • CaretRightCircle • CaretRightSquare
+- CaretUp • CaretUpCircle • CaretUpSquare • DownloadArc
+- DownloadArrowDown • DownloadBracket • DownloadBracketAlt • DownloadCircle
+- DownloadRectangle • DownloadRectangleAlt • DownloadSquare • DownloadSquareSimple
+- Recycle • Reply • Share • Sort
+- SortDownUp • UploadArc • UploadArrowUp • UploadBracket
+- UploadBracketAlt • UploadCircle • UploadRectangle • UploadRectangleAlt
+- UploadSquare • UploadSquareSimple
+
+### Business & Finance (135 iconos)
+
+- AddressCard • Briefcase • BriefcaseArrowDownCircle • BriefcaseArrowUpCircle
+- BriefcaseBan • BriefcaseBolt • BriefcaseCheckCircle • BriefcaseClock
+- BriefcaseCode • BriefcaseDollar • BriefcaseDollar_1 • BriefcaseExchange
+- BriefcaseExclamationCircle • BriefcaseEye • BriefcaseGear • BriefcaseHeart
+- BriefcaseInfoCircle • BriefcaseLocationPin • BriefcaseLock • BriefcaseMinusCircle
+- BriefcaseMoney • BriefcaseMusicNote • BriefcasePen • BriefcasePercentCircle
+- BriefcasePlusCircle • BriefcaseQuestionCircle • BriefcaseSearch • BriefcaseShare
+- BriefcaseShield • BriefcaseSparkles • BriefcaseStar • BriefcaseUser
+- BriefcaseWifi • BriefcaseXmarkCircle • CabinetFiling • CalculatorSimple
+- IdBadge • IdCardClip • IdCardClipText • ListRadio
+- ListTimeline • ListTree • Percent • PercentBubbleTag
+- PercentCircle • PercentCountdown • PercentDown • PercentReload
+- PercentSquare • PercentUp • PresentationArrowDown • PresentationArrowUp
+- PresentationBan • PresentationBolt • PresentationChart • PresentationCheck
+- PresentationCheckList • PresentationClock • PresentationCode • PresentationDollar
+- PresentationExchange • PresentationExclamation • PresentationEye • PresentationGear
+- PresentationHeart • PresentationInfo • PresentationList • PresentationListCheck
+- PresentationLocationPin • PresentationLock • PresentationMinus • PresentationMusicNote
+- PresentationPause • PresentationPen • PresentationPercent • PresentationPlay
+- PresentationPlus • PresentationPoll • PresentationPulse • PresentationQuestion
+- PresentationScreen • PresentationSearch • PresentationShare • PresentationShield
+- PresentationSparkles • PresentationStar • PresentationText • PresentationTrendDown
+- PresentationTrendUp • PresentationUser • PresentationWifi • PresentationXmark
+- ProjectorArrowDown • ProjectorArrowUp • ProjectorBan • ProjectorBolt
+- ProjectorChart • ProjectorCheck • ProjectorCheckList • ProjectorClock
+- ProjectorCode • ProjectorDollar • ProjectorExchange • ProjectorExclamation
+- ProjectorEye • ProjectorGear • ProjectorHeart • ProjectorInfo
+- ProjectorList • ProjectorListCheck • ProjectorLocationPin • ProjectorLock
+- ProjectorMinus • ProjectorMusicNote • ProjectorPause • ProjectorPen
+- ProjectorPercent • ProjectorPlay • ProjectorPlus • ProjectorPoll
+- ProjectorPulse • ProjectorQuestion • ProjectorScreen • ProjectorSearch
+- ProjectorShare • ProjectorShield • ProjectorSparkles • ProjectorStar
+- ProjectorText • ProjectorTrendDown • ProjectorTrendUp • ProjectorUser
+- ProjectorWifi • ProjectorXmark • Ranking
+
+### Charts & Diagrams (134 iconos)
+
+- Chart • ChartBar • ChartBarSimple • ChartCandlestick
+- ChartCandlestickAlt • ChartCircle • ChartCircleNotification • ChartColumn
+- ChartColumnAlt • ChartColumnSimple • ChartGantt • ChartHorizontal
+- ChartHorizontalSimple • ChartLine • ChartLineArrowDownCircle • ChartLineArrowUpCircle
+- ChartLineBan • ChartLineBolt • ChartLineCheckCircle • ChartLineCircle
+- ChartLineCircleNotification • ChartLineClock • ChartLineCode • ChartLineDollar
+- ChartLineDown • ChartLineDownCircle • ChartLineDownCircle_1 • ChartLineDownSimple
+- ChartLineDownSquare • ChartLineDownSquare_1 • ChartLineExchange • ChartLineExclamationCircle
+- ChartLineEye • ChartLineGear • ChartLineHeart • ChartLineInfoCircle
+- ChartLineLocationPin • ChartLineLock • ChartLineMinusCircle • ChartLineMusicNote
+- ChartLinePen • ChartLinePercentCircle • ChartLinePlusCircle • ChartLineQuestionCircle
+- ChartLineSearch • ChartLineShare • ChartLineShield • ChartLineSimple
+- ChartLineSparkles • ChartLineSquare • ChartLineSquareNotification • ChartLineStar
+- ChartLineUp • ChartLineUpCircle • ChartLineUpCircle_1 • ChartLineUpDown
+- ChartLineUpSimple • ChartLineUpSquare • ChartLineUpSquare_1 • ChartLineUser
+- ChartLineWifi • ChartLineXmarkCircle • ChartMixed • ChartMixedUpDollar
+- ChartNetwork • ChartPie • ChartPieSimple • ChartPyramid
+- ChartScatter • ChartScatterBubble • ChartScatter_3d • ChartSimple
+- ChartSquare • ChartSquareNotification • ChartTreeMap • ChartTrendDown
+- ChartTrendDownAlt • ChartTrendUp • ChartTrendUpAlt • ChartWaterfall
+- DiagramCells • DiagramNested • DiagramNested_1 • DiagramNext
+- DiagramPrevious • DiagramSankey • DiagramSubtask • DiagramSubtask_1
+- DiagramSuccessor • DiagramTree • DiagramTreeAlt • DiagramVenn
+- PollArrowDownCircle • PollArrowUpCircle • PollBan • PollBolt
+- PollCheckCircle • PollCircle • PollCircleNotification • PollClock
+- PollCode • PollDollar • PollExchange • PollExclamationCircle
+- PollEye • PollGear • PollHeart • PollHorizontalCircle
+- PollHorizontalCircleNotification • PollHorizontalSquare • PollHorizontalSquareNotification • PollInfoCircle
+- PollLocationPin • PollLock • PollMinusCircle • PollMusicNote
+- PollPen • PollPercentCircle • PollPlusCircle • PollQuestionCircle
+- PollSearch • PollShare • PollShield • PollSparkles
+- PollSquare • PollSquareNotification • PollStar • PollUser
+- PollWifi • PollXmarkCircle • TrendDownCircle • TrendDownSquare
+- TrendUpCircle • TrendUpSquare
+
+### Support & Reviews (120 iconos)
+
+- Heart • HeartArrowDownCircle • HeartArrowUpCircle • HeartBan
+- HeartBolt • HeartBubbleTag • HeartCheckCircle • HeartCircle
+- HeartClock • HeartCode • HeartCountdown • HeartCrack
+- HeartDollar • HeartExchange • HeartExclamationCircle • HeartEye
+- HeartGallery • HeartGear • HeartHalf • HeartHeart
+- HeartInfoCircle • HeartLocationPin • HeartLock • HeartMinusCircle
+- HeartMusicNote • HeartPen • HeartPercentCircle • HeartPlusCircle
+- HeartQuestionCircle • HeartSearch • HeartShare • HeartShield
+- HeartSimple • HeartSimpleArrowDown • HeartSimpleArrowUp • HeartSimpleChart
+- HeartSimpleCheck • HeartSimpleDollar • HeartSimpleKeyhole • HeartSimpleMinus
+- HeartSimplePercent • HeartSimplePlus • HeartSimplePulse • HeartSimpleSlash
+- HeartSimpleUser • HeartSimpleXmark • HeartSlash • HeartSparkles
+- HeartSquare • HeartStar • HeartUser • HeartWifi
+- HeartXmarkCircle • Hearts • Star • StarArrowDownCircle
+- StarArrowUpCircle • StarBan • StarBolt • StarBubbleTag
+- StarCheckCircle • StarCircle • StarClock • StarCode
+- StarCountdown • StarDollar • StarExchange • StarExclamationCircle
+- StarEye • StarGallery • StarGear • StarHalf
+- StarHeart • StarInfoCircle • StarLocationPin • StarLock
+- StarMagic • StarMagicGlow • StarMinusCircle • StarMusicNote
+- StarPen • StarPercentCircle • StarPlusCircle • StarQuestionCircle
+- StarSearch • StarShare • StarShield • StarShine
+- StarShootingDown • StarShootingDownAlt • StarShootingRight • StarShootingRightAlt
+- StarShootingUp • StarShootingUpAlt • StarSimpleCheck • StarSimpleDollar
+- StarSimpleExclamation • StarSimpleFirst • StarSimplePercent • StarSimpleQuestion
+- StarSimpleSmile • StarSlash • StarSparkles • StarSquare
+- StarStar • StarUser • StarWifi • StarXmarkCircle
+- ThumbsDown • ThumbsDownBubbleTag • ThumbsDownCircle • ThumbsDownSquare
+- ThumbsUp • ThumbsUpBubbleTag • ThumbsUpCircle • ThumbsUpCountdown
+- ThumbsUpDown • ThumbsUpDownAlt • ThumbsUpSquare • ThumbsUpStars
+
+### Chatting (114 iconos)
+
+- Chat • ChatArrowDown • ChatArrowUp • ChatBan
+- ChatBolt • ChatCheck • ChatClock • ChatCode
+- ChatDollar • ChatDots • ChatDotsArrowDownCircle • ChatDotsArrowUpCircle
+- ChatDotsBan • ChatDotsBolt • ChatDotsCheckCircle • ChatDotsClock
+- ChatDotsCode • ChatDotsDollar • ChatDotsExchange • ChatDotsExclamationCircle
+- ChatDotsEye • ChatDotsGear • ChatDotsHeart • ChatDotsInfoCircle
+- ChatDotsLocationPin • ChatDotsLock • ChatDotsMinusCircle • ChatDotsMusicNote
+- ChatDotsNotification • ChatDotsPen • ChatDotsPercentCircle • ChatDotsPlusCircle
+- ChatDotsQuestionCircle • ChatDotsSearch • ChatDotsShare • ChatDotsShield
+- ChatDotsSparkles • ChatDotsStar • ChatDotsUser • ChatDotsWifi
+- ChatDotsXmarkCircle • ChatExchange • ChatExclamation • ChatEye
+- ChatGear • ChatHeart • ChatInfo • ChatLocationPin
+- ChatLock • ChatMinus • ChatMusicNote • ChatNotification
+- ChatPen • ChatPercent • ChatPlus • ChatQuestion
+- ChatSearch • ChatShare • ChatShield • ChatSlash
+- ChatSmile • ChatSms • ChatSparkles • ChatStar
+- ChatTText • ChatText • ChatTextArrowDownCircle • ChatTextArrowUpCircle
+- ChatTextBan • ChatTextBolt • ChatTextCheckCircle • ChatTextClock
+- ChatTextCode • ChatTextDollar • ChatTextExchange • ChatTextExclamationCircle
+- ChatTextEye • ChatTextGear • ChatTextHeart • ChatTextInfoCircle
+- ChatTextLocationPin • ChatTextLock • ChatTextMinusCircle • ChatTextMusicNote
+- ChatTextNotification • ChatTextPen • ChatTextPercentCircle • ChatTextPlusCircle
+- ChatTextQuestionCircle • ChatTextSearch • ChatTextShare • ChatTextShield
+- ChatTextSparkles • ChatTextStar • ChatTextUser • ChatTextWifi
+- ChatTextXmarkCircle • ChatUser • ChatWifi • ChatXmark
+- Chats • ChatsArrowDown • ChatsArrowUp • ChatsCheck
+- ChatsDots • ChatsExclamation • ChatsHeart • ChatsMinus
+- ChatsPen • ChatsPlus • ChatsQuestion • ChatsStar
+- ChatsText • ChatsXmark
+
+### Commenting (114 iconos)
+
+- Comment • CommentArrowDown • CommentArrowUp • CommentBan
+- CommentBolt • CommentCheck • CommentClock • CommentCode
+- CommentDollar • CommentDots • CommentDotsArrowDownCircle • CommentDotsArrowUpCircle
+- CommentDotsBan • CommentDotsBolt • CommentDotsCheckCircle • CommentDotsClock
+- CommentDotsCode • CommentDotsDollar • CommentDotsExchange • CommentDotsExclamationCircle
+- CommentDotsEye • CommentDotsGear • CommentDotsHeart • CommentDotsInfoCircle
+- CommentDotsLocationPin • CommentDotsLock • CommentDotsMinusCircle • CommentDotsMusicNote
+- CommentDotsNotification • CommentDotsPen • CommentDotsPercentCircle • CommentDotsPlusCircle
+- CommentDotsQuestionCircle • CommentDotsSearch • CommentDotsShare • CommentDotsShield
+- CommentDotsSparkles • CommentDotsStar • CommentDotsUser • CommentDotsWifi
+- CommentDotsXmarkCircle • CommentExchange • CommentExclamation • CommentEye
+- CommentGear • CommentHeart • CommentInfo • CommentLocationPin
+- CommentLock • CommentMinus • CommentMusicNote • CommentNotification
+- CommentPen • CommentPercent • CommentPlus • CommentQuestion
+- CommentSearch • CommentShare • CommentShield • CommentSlash
+- CommentSmile • CommentSms • CommentSparkles • CommentStar
+- CommentTText • CommentText • CommentTextArrowDownCircle • CommentTextArrowUpCircle
+- CommentTextBan • CommentTextBolt • CommentTextCheckCircle • CommentTextClock
+- CommentTextCode • CommentTextDollar • CommentTextExchange • CommentTextExclamationCircle
+- CommentTextEye • CommentTextGear • CommentTextHeart • CommentTextInfoCircle
+- CommentTextLocationPin • CommentTextLock • CommentTextMinusCircle • CommentTextMusicNote
+- CommentTextNotification • CommentTextPen • CommentTextPercentCircle • CommentTextPlusCircle
+- CommentTextQuestionCircle • CommentTextSearch • CommentTextShare • CommentTextShield
+- CommentTextSparkles • CommentTextStar • CommentTextUser • CommentTextWifi
+- CommentTextXmarkCircle • CommentUser • CommentWifi • CommentXmark
+- Comments • CommentsArrowDown • CommentsArrowUp • CommentsCheck
+- CommentsDots • CommentsExclamation • CommentsHeart • CommentsMinus
+- CommentsPen • CommentsPlus • CommentsQuestion • CommentsStar
+- CommentsText • CommentsXmark
+
+### Messaging (114 iconos)
+
+- Message • MessageArrowDown • MessageArrowUp • MessageBan
+- MessageBolt • MessageCheck • MessageClock • MessageCode
+- MessageDollar • MessageDots • MessageDotsArrowDownCircle • MessageDotsArrowUpCircle
+- MessageDotsBan • MessageDotsBolt • MessageDotsCheckCircle • MessageDotsClock
+- MessageDotsCode • MessageDotsDollar • MessageDotsExchange • MessageDotsExclamationCircle
+- MessageDotsEye • MessageDotsGear • MessageDotsHeart • MessageDotsInfoCircle
+- MessageDotsLocationPin • MessageDotsLock • MessageDotsMinusCircle • MessageDotsMusicNote
+- MessageDotsNotification • MessageDotsPen • MessageDotsPercentCircle • MessageDotsPlusCircle
+- MessageDotsQuestionCircle • MessageDotsSearch • MessageDotsShare • MessageDotsShield
+- MessageDotsSparkles • MessageDotsStar • MessageDotsUser • MessageDotsWifi
+- MessageDotsXmarkCircle • MessageExchange • MessageExclamation • MessageEye
+- MessageGear • MessageHeart • MessageInfo • MessageLocationPin
+- MessageLock • MessageMinus • MessageMusicNote • MessageNotification
+- MessagePen • MessagePercent • MessagePlus • MessageQuestion
+- MessageSearch • MessageShare • MessageShield • MessageSlash
+- MessageSmile • MessageSms • MessageSparkles • MessageStar
+- MessageTText • MessageText • MessageTextArrowDownCircle • MessageTextArrowUpCircle
+- MessageTextBan • MessageTextBolt • MessageTextCheckCircle • MessageTextClock
+- MessageTextCode • MessageTextDollar • MessageTextExchange • MessageTextExclamationCircle
+- MessageTextEye • MessageTextGear • MessageTextHeart • MessageTextInfoCircle
+- MessageTextLocationPin • MessageTextLock • MessageTextMinusCircle • MessageTextMusicNote
+- MessageTextNotification • MessageTextPen • MessageTextPercentCircle • MessageTextPlusCircle
+- MessageTextQuestionCircle • MessageTextSearch • MessageTextShare • MessageTextShield
+- MessageTextSparkles • MessageTextStar • MessageTextUser • MessageTextWifi
+- MessageTextXmarkCircle • MessageUser • MessageWifi • MessageXmark
+- Messages • MessagesArrowDown • MessagesArrowUp • MessagesCheck
+- MessagesDots • MessagesExclamation • MessagesHeart • MessagesMinus
+- MessagesPen • MessagesPlus • MessagesQuestion • MessagesStar
+- MessagesText • MessagesXmark
+
+### Users & People (114 iconos)
+
+- User • UserArrowDownCircle • UserArrowDownCircleAlt • UserArrowLeftRight
+- UserArrowUpCircle • UserArrowUpCircleAlt • UserBan • UserBanAlt
+- UserBanRight • UserBanRightAlt • UserBolt • UserBoltAlt
+- UserBubbleTag • UserChalkboard • UserChalkboardChart • UserChalkboardCode
+- UserChalkboardDollar • UserChalkboardEmpty • UserChalkboardPlay • UserChalkboardPoll
+- UserChalkboardPulse • UserChalkboardQuestion • UserChalkboardText • UserChalkboardTrendDown
+- UserChalkboardTrendUp • UserCheck • UserCheckAlt • UserCheckCircle
+- UserCheckCircleAlt • UserCircle • UserClock • UserClockAlt
+- UserCode • UserCodeAlt • UserCountdown • UserDollar
+- UserDollarAlt • UserExchange • UserExchangeAlt • UserExclamationCircle
+- UserExclamationCircleAlt • UserEye • UserEyeAlt • UserGear
+- UserGearAlt • UserHeart • UserHeartAlt • UserInfoCircle
+- UserInfoCircleAlt • UserLocationPin • UserLocationPinAlt • UserLock
+- UserLockAlt • UserMembership • UserMinus • UserMinusAlt
+- UserMinusCircle • UserMinusCircleAlt • UserMusicNote • UserMusicNoteAlt
+- UserPen • UserPenAlt • UserPercentCircle • UserPercentCircleAlt
+- UserPlus • UserPlusAlt • UserPlusCircle • UserPlusCircleAlt
+- UserQuestionCircle • UserQuestionCircleAlt • UserRectangle • UserRectangleVertical
+- UserRotate • UserSearch • UserSearchAlt • UserShare
+- UserShareAlt • UserShield • UserShieldAlt • UserSimpleAlt
+- UserSlash • UserSlashAlt • UserSparkles • UserSparklesAlt
+- UserSquare • UserStar • UserStarAlt • UserSwap
+- UserSwich • UserTag • UserTagAlt • UserViewfinder
+- UserWave • UserWaveAlt • UserWifi • UserWifiAlt
+- UserXmark • UserXmarkAlt • UserXmarkCircle • UserXmarkCircleAlt
+- Users • UsersBetweenLines • UsersClass • UsersGroup
+- UsersGroupSimpleAlt • UsersGroupSlash • UsersGroupSlashAlt • UsersLesson
+- UsersLine • UsersNetwork • UsersRays • UsersSimpleAlt
+- UsersSlash • UsersSlashAlt
+
+### Education (108 iconos)
+
+- Atom • Backpack • Book • BookArrowDownCircle
+- BookArrowUpCircle • BookAtlas • BookBan • BookBolt
+- BookBookmark • BookCheckCircle • BookClock • BookCode
+- BookDollar • BookExchange • BookExclamationCircle • BookEye
+- BookFont • BookGear • BookHeart • BookInfoCircle
+- BookLocationPin • BookLock • BookMinusCircle • BookMusicNote
+- BookOpen • BookOpenCircle • BookOpenCountdown • BookOpenCover
+- BookOpenCoverText • BookOpenReader • BookOpenSquare • BookOpenText
+- BookPen • BookPercentCircle • BookPlusCircle • BookQuestionCircle
+- BookSearch • BookShare • BookShield • BookSimple
+- BookSparkles • BookStar • BookText • BookTurnPage
+- BookTurnPage_1 • BookUser • BookWifi • BookXmarkCircle
+- Bookmark • BookmarkCountdown • BookmarkSimple • BookmarkSimpleArrowDown
+- BookmarkSimpleArrowDownCircle • BookmarkSimpleArrowUp • BookmarkSimpleArrowUpCircle • BookmarkSimpleBan
+- BookmarkSimpleBolt • BookmarkSimpleCheck • BookmarkSimpleCheckCircle • BookmarkSimpleClock
+- BookmarkSimpleCode • BookmarkSimpleDollar • BookmarkSimpleExchange • BookmarkSimpleExclamationCircle
+- BookmarkSimpleEye • BookmarkSimpleGear • BookmarkSimpleHeart • BookmarkSimpleInfoCircle
+- BookmarkSimpleLocationPin • BookmarkSimpleLock • BookmarkSimpleMinus • BookmarkSimpleMinusCircle
+- BookmarkSimpleMusicNote • BookmarkSimplePen • BookmarkSimplePercentCircle • BookmarkSimplePlus
+- BookmarkSimplePlusCircle • BookmarkSimpleQuestionCircle • BookmarkSimpleSearch • BookmarkSimpleShare
+- BookmarkSimpleShield • BookmarkSimpleSparkles • BookmarkSimpleStar • BookmarkSimpleUser
+- BookmarkSimpleWifi • BookmarkSimpleXmark • BookmarkSimpleXmarkCircle • BookmarkSimple_1
+- BookmarkSquare • BookmarkSquare_1 • Bookmarks • BookmarksCheck
+- BookmarksMinus • BookmarksPlus • BookmarksSimple • BookmarksXmark
+- Books • Certificate • Chalkboard • ChalkboardSimple
+- Diploma • GlassesRound • GlobeStand • Math
+- PencilCircle • PlanetRinged • PlusMinus • RulerTriangle
+
+### Location & Map (102 iconos)
+
+- Compass • CompassNeedle • CompassSlash • Flag
+- FlagPennant • FlagSwallowtail • LifeRing • LocationArrow
+- LocationArrowBubbleTag • LocationArrowCircle • LocationArrowCountdown • LocationArrowDownCircle
+- LocationArrowSquare • LocationArrowUp • LocationArrowUpBubbleTag • LocationArrowUpCircle
+- LocationArrowUpCircle_1 • LocationArrowUpCountdown • LocationArrowUpSquare • LocationArrowUpViewfinder
+- LocationArrowViewfinder • LocationBan • LocationBolt • LocationCheckCircle
+- LocationClock • LocationCode • LocationCrosshairs • LocationCrosshairsSlash
+- LocationDollar • LocationExchange • LocationExclamationCircle • LocationEye
+- LocationGear • LocationHeart • LocationInfoCircle • LocationLocationPin
+- LocationLock • LocationMinusCircle • LocationMusicNote • LocationPen
+- LocationPercentCircle • LocationPinArea • LocationPinAreaSimple • LocationPinCircle
+- LocationPinLine • LocationPinLineSimple • LocationPinLine_1 • LocationPinSimple
+- LocationPinSimpleCircle • LocationPinSimpleSlash • LocationPinSimpleSquare • LocationPinSlash
+- LocationPinSquare • LocationPlusCircle • LocationQuestionCircle • LocationSearch
+- LocationShare • LocationShield • LocationSimpleArrowDown • LocationSimpleArrowUp
+- LocationSimpleCheck • LocationSimpleDollar • LocationSimpleExclamation • LocationSimpleInfo
+- LocationSimpleMinus • LocationSimplePlus • LocationSimpleQuestion • LocationSimpleStar
+- LocationSimpleUser • LocationSimpleXmark • LocationSparkles • LocationStar
+- LocationUser • LocationWifi • LocationXmarkCircle • Map
+- MapLocation • MapPin • MapPinArea • ParkingBan
+- ParkingCircle • ParkingSquare • ParkingSquareSlash • Radar
+- RegionPin • RegionPinSquare • Road • RoadCheckCircle
+- RoadExclamationCircle • RoadLock • RoadXmarkCircle • Route
+- RouteJourney • RouteTrack • SignPostLeft • SignPostRight
+- SignsPost • StreetView • Thumbtack • ThumbtackSlanted
+- ThumbtackSlash • TrafficCone
+
+### Connectivity (97 iconos)
+
+- Bluetooth • BluetoothSlash • Globe • GlobeArrowDownCircle
+- GlobeArrowUpCircle • GlobeBan • GlobeBolt • GlobeCheckCircle
+- GlobeClock • GlobeCode • GlobeDollar • GlobeExchange
+- GlobeExclamationCircle • GlobeEye • GlobeGear • GlobeHeart
+- GlobeInfoCircle • GlobeLocationPin • GlobeLock • GlobeMinusCircle
+- GlobeMusicNote • GlobePen • GlobePercentCircle • GlobePlusCircle
+- GlobePointer • GlobeQuestionCircle • GlobeSearch • GlobeShare
+- GlobeShield • GlobeSimple • GlobeSparkles • GlobeStar
+- GlobeUser • GlobeWifi • GlobeWww • GlobeXmarkCircle
+- Link • LinkHorizontal • LinkHorizontalSlash • LinkSlash
+- SatelliteDish • Signal • SignalBan • SignalBolt
+- SignalCheckCircle • SignalClock • SignalExchange • SignalExclamationCircle
+- SignalEye • SignalGear • SignalH • SignalInfoCircle
+- SignalLocationPin • SignalLock • SignalLockAlt • SignalQuestionCircle
+- SignalSearch • SignalShare • SignalShield • SignalSlash
+- SignalSparkles • SignalStream • SignalStreamSlash • SignalUser
+- SignalXmark • SignalXmarkCircle • Signal_2g • Signal_3g
+- Signal_4g • Signal_5g • TowerBroadcast • TowerBroadcastSlash
+- TowerCell • Wifi • WifiBan • WifiBolt
+- WifiCheckCircle • WifiClock • WifiExchange • WifiExclamation
+- WifiExclamationCircle • WifiEye • WifiGear • WifiInfoCircle
+- WifiLocationPin • WifiLock • WifiPercentCircle • WifiQuestion
+- WifiQuestionCircle • WifiSearch • WifiShare • WifiShield
+- WifiSlash • WifiSparkles • WifiUser • WifiXmark
+- WifiXmarkCircle
+
+### Design & Editing (96 iconos)
+
+- BezierCurve • Brush • BrushDiagonal • Component
+- Contrast • Crop • Cube • CubeSimple
+- CubeViewfinder • Cubes • DistributeSpacingHorizontal • DistributeSpacingVertical
+- DrawSquare • Droplet • DropletHalf • DropletSlash
+- Eraser • Frame • Highlighter • HighlighterLine
+- LayerGroup • LayerMinus • LayerPlus • ObjectsAlignBottom
+- ObjectsAlignCenterHorizontal • ObjectsAlignCenterVertical • ObjectsAlignLeft • ObjectsAlignRight
+- ObjectsAlignTop • PaintRoller • Palette • Pen
+- PenAi • PenClip • PenLine • PenLiveLine
+- PenNib • PenNibSimple • PenRuler • PenSimpleLiveLine
+- PenSimpleText • PenSlash • PenText • PenToSquare
+- Pencil • PencilLine • PencilSlash • Pixels
+- ReflectHorizontal • ReflectVertical • Resize • Ruler
+- RulerCombined • Scissors • SliderSun • Swatchbook
+- Trash • TrashArrowDown • TrashArrowUp • TrashBan
+- TrashBolt • TrashCheck • TrashClock • TrashClockAlt
+- TrashCode • TrashDollar • TrashExchange • TrashExclamation
+- TrashEye • TrashHeart • TrashInfo • TrashLocationPin
+- TrashLock • TrashMinus • TrashMusicNote • TrashPen
+- TrashPercent • TrashPlus • TrashQuestion • TrashReload
+- TrashSearch • TrashShare • TrashShield • TrashSimple
+- TrashSlash • TrashSparkles • TrashStar • TrashUndo
+- TrashUnlock • TrashUser • TrashWifi • TrashXmark
+- Variable • VectorSquare • WandMagic • WandMagicSparkles
+
+### Text Formatting (96 iconos)
+
+- AlignCenter • AlignJustify • AlignJustifyLeft • AlignJustifyRight
+- AlignLeft • AlignRight • Bold • CheckList
+- CheckListSquare • CheckListSquare_1 • Filter • FilterArrowDownCircle
+- FilterArrowUpCircle • FilterBan • FilterBolt • FilterCheckCircle
+- FilterClock • FilterCode • FilterDollar • FilterExchange
+- FilterExclamationCircle • FilterEye • FilterGear • FilterHeart
+- FilterInfoCircle • FilterLocationPin • FilterLock • FilterMinusCircle
+- FilterMusicNote • FilterPen • FilterPercentCircle • FilterPlusCircle
+- FilterQuestionCircle • FilterSearch • FilterShare • FilterShield
+- FilterSlash • FilterSparkles • FilterStar • FilterUser
+- FilterWifi • FilterXmarkCircle • Font • FontCase
+- FontUnderline • Heading • Heading_1 • Heading_2
+- Heading_3 • Heading_4 • Heading_5 • Heading_6
+- Indent • Italic • Kerning • LineHeight
+- LinkSimple • LinkSimpleBroken • LinkSimpleHorizontal • LinkSimpleHorizontalBroken
+- LinkSimpleHorizontalSlash • LinkSimpleSlash • List • ListCheck
+- ListCheckSquare • ListCheckSquare_1 • ListNumber • ListSquare
+- ListSquare_1 • Numbers • Outdent • Paperclip
+- PaperclipVertical • Paragraph • ParagraphLeft • QuoteLeft
+- QuoteRight • SortAZ • SortAscending • SortDescending
+- SortDownShortWide • SortDownWideShort • SortUpShortWide • SortUpWideShort
+- SortZA • SpellCheck • Strikethrough • Subscript
+- Superscript • Text • TextColumns • TextHeight
+- TextSize • TextSlash • TextWidth • Underline
+
+### Security (90 iconos)
+
+- Bug • BugSlash • Eye • EyeClosed
+- EyeOpen • EyeSlash • FaceId • Fingerprint
+- FingerprintCircle • FingerprintSlash • FingerprintSquare • Incognito
+- KeyCircle • KeyMessage • KeySimpleCircle • KeySimpleCountdown
+- KeySimpleHexagon • KeySimpleRefresh • KeySimpleReload • KeySimpleSquare
+- KeySlash • KeySquare • KeyholeCircle • KeyholeCountdown
+- KeyholeHexagon • KeyholeRefresh • KeyholeReload • KeyholeSquare
+- LightEmergency • LightEmergencyOn • Lock • LockCircle
+- LockCountdown • LockHexagon • LockKeyhole • LockKeyholeSlash
+- LockMessage • LockMessageText • LockRefresh • LockReload
+- LockSimple • LockSimpleSlash • LockSlash • LockSquare
+- LockViewfinder • Password • PasswordEntre • Scan
+- ScanCircle • Shield • ShieldArrowDown • ShieldArrowUp
+- ShieldBan • ShieldBolt • ShieldCheck • ShieldClock
+- ShieldCode • ShieldDollar • ShieldExchange • ShieldExclamation
+- ShieldEye • ShieldGear • ShieldHalved • ShieldHeart
+- ShieldInfo • ShieldKeyhole • ShieldLink • ShieldLocationPin
+- ShieldLock • ShieldMinus • ShieldMusicNote • ShieldPen
+- ShieldPercent • ShieldPlus • ShieldQuartered • ShieldQuestion
+- ShieldSearch • ShieldShare • ShieldSlash • ShieldSparkles
+- ShieldStar • ShieldUnlock • ShieldUser • ShieldWifi
+- ShieldXmark • Siren • SirenOn • Unlock
+- UnlockKeyhole • UnlockSimple
+
+### Sign & Indices (54 iconos)
+
+- AAuto • AAutoCircle • AAutoSquare • Ban
+- Check • CheckAll • CheckCircle • CheckDouble
+- CheckLine • CheckLineSquare • CheckLineSquare_1 • CheckOctagon
+- CheckSquare • Copyright • CopyrightCircle • CopyrightSquare
+- Exclamation • ExclamationCircle • ExclamationDiamond • ExclamationOctagon
+- ExclamationSquare • ExclamationTriangle • Gender • HHospital
+- HHospitalCircle • HHospitalSquare • Info • InfoCircle
+- InfoSquare • Minus • MinusCircle • MinusOctagon
+- MinusSquare • Plus • PlusCircle • PlusOctagon
+- PlusSquare • PowerOff • PowerOffCircle • PowerOffSquare
+- Question • QuestionCircle • QuestionOctagon • QuestionSquare
+- Registered • RegisteredCircle • RegisteredSquare • Trademark
+- TrademarkCircle • TrademarkSquare • Xmark • XmarkCircle
+- XmarkOctagon • XmarkSquare
+
+### Coding (36 iconos)
+
+- BinarySquare • BracketsCurly • BracketsRound • BracketsSquare
+- Browser • BrowserArrowUp • BrowserCode • BrowserCodeSimple
+- BrowserTerminal • Browsers • Code • CodeBranch
+- CodeCircle • CodeCommit • CodeCompare • CodeFork
+- CodeMerge • CodePullRequest • CodePullRequestClosed • CodePullRequestDraft
+- CodeSimple • CodeSimpleCircle • CodeSimpleSquare • CodeSquare
+- Merge • Sitemap • Split • Terminal
+- TerminalCircle • TerminalSquare • Window • WindowArrowUp
+- WindowFlip • WindowSimple • WindowSimpleFlip • Windows
+
+### Menu & Grids (36 iconos)
+
+- GridCategory • GridCategoryPlus • GridCircle • GridCirclePlus
+- GridCircleSearch • GridCircle_2 • GridDividers • GridSquare
+- GridSquareCircle • GridSquarePlus • GridSquareSearch • GridSquare_2
+- MenuBars • MenuBarsCircle • MenuBarsSquare • MenuCircle_1
+- MenuCircle_2 • MenuCircle_3 • MenuCircle_4 • MenuCircle_5
+- MenuSquare_1 • MenuSquare_2 • MenuSquare_3 • MenuSquare_4
+- MenuSquare_5 • Menu_1 • Menu_2 • Menu_3
+- Menu_4 • Menu_5 • MoreHorizontal • MoreHorizontalCircle
+- MoreHorizontalSquare • MoreVertical • MoreVerticalCircle • MoreVerticalSquare
+
