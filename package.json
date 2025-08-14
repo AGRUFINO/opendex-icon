@@ -79,7 +79,7 @@
     "change-case": "^5.4.4",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.0",
-    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
     "fast-glob": "^3.3.2",
     "prettier": "^3.3.2",
     "rimraf": "^5.0.7",
