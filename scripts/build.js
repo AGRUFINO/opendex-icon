@@ -33,7 +33,7 @@ fs.writeFileSync(path.join(distDir, 'index.js'), indexContent);
 // Crear package.json para el build
 const packageJson = {
   name: '@opendex-origon/icons',
-  version: '0.1.0',
+  version: '0.1.1',
   main: './index.js',
   module: './index.js',
   types: './index.d.ts',
