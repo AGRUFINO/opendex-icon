@@ -1,0 +1,54 @@
+name: Backup
+
+on:
+  schedule:
+    - cron: '0 4 * * 0' # Weekly on Sunday at 4 AM
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Create backup
+        run: |
+          # Create backup directory
+          mkdir -p backup
+          
+          # Backup source files
+          tar -czf backup/source-$(date +%Y%m%d).tar.gz src/
+          
+          # Backup assets
+          tar -czf backup/assets-$(date +%Y%m%d).tar.gz assets/
+          
+          # Backup configuration files
+          tar -czf backup/config-$(date +%Y%m%d).tar.gz package.json tsconfig.json .eslintrc.json .prettierrc
+          
+          # Create backup manifest
+          echo "Backup created on $(date)" > backup/manifest.txt
+          echo "Files included:" >> backup/manifest.txt
+          ls -la backup/ >> backup/manifest.txt
+
+      - name: Upload backup artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: backup-$(date +%Y%m%d)
+          path: backup/
+          retention-days: 30
+
+      - name: Notify backup completion
+        run: |
+          echo "✅ Backup completed successfully on $(date)"
+          echo "📦 Backup files uploaded as artifacts"
+          echo "🗂️ Retention period: 30 days"

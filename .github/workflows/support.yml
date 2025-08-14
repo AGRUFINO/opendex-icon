@@ -1,0 +1,161 @@
+name: Support
+
+on:
+  issues:
+    types: [opened, edited, labeled, unlabeled]
+  pull_request:
+    types: [opened, edited, labeled, unlabeled]
+
+jobs:
+  support:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Welcome new contributors
+        if: github.event.action == 'opened' && github.event.issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue = context.payload.issue;
+            
+            // Check if this is the first contribution
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner,
+              repo,
+              creator: issue.user.login,
+              state: 'all'
+            });
+            
+            if (issues.length === 1) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: issue.number,
+                body: |
+                  🎉 **Welcome to @opendex-origon/icons!** 
+
+                  Thank you for your first contribution to our project! We're excited to have you as part of our community.
+
+                  ### Getting Started
+                  - 📖 Check out our [Contributing Guide](CONTRIBUTING.md)
+                  - 📚 Read our [Documentation](README.md)
+                  - 💬 Join our [Discord Community](https://discord.gg/opendex)
+
+                  ### Need Help?
+                  - 🐛 For bugs, use our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
+                  - 💡 For features, use our [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
+                  - 📧 Email us at support@opendex.com
+
+                  We'll review your issue/PR as soon as possible! 🚀
+              });
+            }
+
+      - name: Auto-label issues
+        if: github.event.action == 'opened' && github.event.issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue = context.payload.issue;
+            const title = issue.title.toLowerCase();
+            const body = issue.body.toLowerCase();
+            
+            const labels = [];
+            
+            // Auto-detect issue type
+            if (title.includes('bug') || title.includes('error') || title.includes('fix') || body.includes('bug') || body.includes('error')) {
+              labels.push('bug');
+            }
+            
+            if (title.includes('feature') || title.includes('enhancement') || title.includes('request') || body.includes('feature') || body.includes('enhancement')) {
+              labels.push('enhancement');
+            }
+            
+            if (title.includes('doc') || title.includes('readme') || body.includes('documentation') || body.includes('readme')) {
+              labels.push('documentation');
+            }
+            
+            if (title.includes('security') || body.includes('security') || body.includes('vulnerability')) {
+              labels.push('security');
+            }
+            
+            // Add priority based on keywords
+            if (title.includes('urgent') || title.includes('critical') || body.includes('urgent') || body.includes('critical')) {
+              labels.push('priority-high');
+            } else if (title.includes('important') || body.includes('important')) {
+              labels.push('priority-medium');
+            } else {
+              labels.push('priority-low');
+            }
+            
+            // Add labels if any were detected
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                owner,
+                repo,
+                issue_number: issue.number,
+                labels: labels
+              });
+            }
+
+      - name: Respond to common questions
+        if: github.event.action == 'opened' && github.event.issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue = context.payload.issue;
+            const body = issue.body.toLowerCase();
+            
+            let response = '';
+            
+            // Common questions and responses
+            if (body.includes('how to install') || body.includes('installation')) {
+              response = '📦 **Installation Guide**\n\nTo install @opendex-origon/icons, run one of these commands:\n\n```bash\nnpm install @opendex-origon/icons\n# or\nyarn add @opendex-origon/icons\n# or\npnpm add @opendex-origon/icons\n```\n\nFor more details, check our [Installation Guide](README.md#-instalación) in the README.';
+            }
+            
+            if (body.includes('how to use') || body.includes('usage example')) {
+              response = '💡 **Usage Examples**\n\nHere\'s how to use our icons:\n\n```tsx\nimport { User, Check, X } from \'@opendex-origon/icons\';\n\nfunction App() {\n  return (\n    <div>\n      <User size={24} />\n      <Check size="1.5rem" color="green" />\n      <X size={32} color="red" />\n    </div>\n  );\n}\n```\n\nFor more examples, check our [Usage Guide](README.md#-uso-básico) in the README.';
+            }
+            
+            if (body.includes('typescript') || body.includes('types')) {
+              response = '📘 **TypeScript Support**\n\n@opendex-origon/icons comes with full TypeScript support! All icons are properly typed with IntelliSense support.\n\n```tsx\nimport { User } from \'@opendex-origon/icons\';\n\n// All props are fully typed\n<User \n  size={24}           // number | string\n  color="blue"        // string\n  strokeWidth={2}     // number\n  className="icon"    // string\n/>\n```\n\nFor more details, check our [TypeScript Guide](README.md#-características) in the README.';
+            }
+            
+            if (response) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: issue.number,
+                body: response
+              });
+            }
+
+      - name: Notify support team
+        if: github.event.action == 'opened' && github.event.issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue = context.payload.issue;
+            
+            // Create a support ticket
+            await github.rest.issues.create({
+              owner,
+              repo,
+              title: '[SUPPORT] ' + issue.title,
+              body: 'Support request from issue #' + issue.number + '\n\n**User**: @' + issue.user.login + '\n**Issue**: ' + issue.html_url + '\n**Priority**: ' + (issue.labels.some(l => l.name.includes('priority-high')) ? 'High' : 'Normal') + '\n\n' + issue.body,
+              labels: ['support', 'automated']
+            });

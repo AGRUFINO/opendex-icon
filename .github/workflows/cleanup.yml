@@ -1,0 +1,74 @@
+name: Cleanup
+
+on:
+  schedule:
+    - cron: '0 5 * * 0' # Weekly on Sunday at 5 AM
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Clean build artifacts
+        run: |
+          echo "🧹 Cleaning build artifacts..."
+          npm run clean
+          rm -rf dist/
+          rm -rf coverage/
+          rm -rf bundle-analysis/
+          echo "✅ Build artifacts cleaned"
+
+      - name: Clean node_modules (if needed)
+        run: |
+          echo "🧹 Cleaning node_modules..."
+          rm -rf node_modules/
+          echo "✅ node_modules cleaned"
+
+      - name: Clean cache
+        run: |
+          echo "🧹 Cleaning npm cache..."
+          npm cache clean --force
+          echo "✅ npm cache cleaned"
+
+      - name: Clean temporary files
+        run: |
+          echo "🧹 Cleaning temporary files..."
+          find . -name "*.tmp" -delete
+          find . -name "*.log" -delete
+          find . -name ".DS_Store" -delete
+          find . -name "Thumbs.db" -delete
+          echo "✅ Temporary files cleaned"
+
+      - name: Generate cleanup report
+        run: |
+          echo "## Cleanup Report - $(date)" > cleanup-report.md
+          echo "### Actions Performed" >> cleanup-report.md
+          echo "- ✅ Build artifacts removed" >> cleanup-report.md
+          echo "- ✅ npm cache cleaned" >> cleanup-report.md
+          echo "- ✅ Temporary files removed" >> cleanup-report.md
+          echo "- ✅ Disk space freed" >> cleanup-report.md
+
+      - name: Upload cleanup report
+        uses: actions/upload-artifact@v3
+        with:
+          name: cleanup-report
+          path: cleanup-report.md
+          retention-days: 7
+
+      - name: Notify cleanup completion
+        run: |
+          echo "🧹 Cleanup completed successfully on $(date)"
+          echo "📦 Cleanup report uploaded as artifact"
+          echo "🗂️ Retention period: 7 days"

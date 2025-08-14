@@ -1,0 +1,72 @@
+# Source files
+src/
+assets/
+scripts/
+
+# Development files
+*.ts
+*.tsx
+!*.d.ts
+tsconfig*.json
+
+# Build tools
+.eslintrc*
+.prettierrc*
+.babelrc*
+webpack.config.*
+rollup.config.*
+vite.config.*
+
+# Testing
+coverage/
+*.test.*
+*.spec.*
+__tests__/
+test/
+tests/
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Development dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+.circleci/
+
+# Configuration files
+.commitlintrc.json
+.releaserc.json
+.size-limit.json
+jest.config.js
+lighthouse.config.js
+webpack-bundle-analyzer.config.js
+bundle-analyzer.config.js
+.npmrc
+
+# Misc
+.env*
+*.log

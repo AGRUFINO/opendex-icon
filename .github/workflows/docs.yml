@@ -1,0 +1,55 @@
+name: Documentation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - 'CONTRIBUTING.md'
+      - 'SECURITY.md'
+      - 'CODE_OF_CONDUCT.md'
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check documentation links
+        run: npx markdown-link-check README.md
+
+      - name: Check documentation spelling
+        run: npx cspell "**/*.md"
+
+      - name: Validate documentation structure
+        run: |
+          # Check if required files exist
+          test -f README.md || exit 1
+          test -f CHANGELOG.md || exit 1
+          test -f CONTRIBUTING.md || exit 1
+          test -f SECURITY.md || exit 1
+          test -f CODE_OF_CONDUCT.md || exit 1
+
+      - name: Comment on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '📚 Documentation has been updated and validated successfully!'
+            })

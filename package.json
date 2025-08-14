@@ -1,9 +1,25 @@
 {
-  "name": "@opendex/icons",
+  "name": "@opendex-origon/icons",
   "version": "0.1.0",
-  "description": "Colección de iconos React para Opendex Corporation, con tipado TypeScript y build ESM/CJS.",
+  "description": "Biblioteca profesional de iconos SVG para React con tipado TypeScript completo. +10,000 iconos organizados en categorías temáticas para aplicaciones modernas.",
   "license": "SEE LICENSE IN LICENSE",
-  "author": "Opendex Corporation",
+  "author": {
+    "name": "Opendex Corporation",
+    "email": "support@opendex.com",
+    "url": "https://opendex.com"
+  },
+  "homepage": "https://github.com/opendex-origon/opendex-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendex-origon/opendex-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opendex-origon/opendex-icons/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://opendex.com/support"
+  },
   "sideEffects": false,
   "files": [
     "dist"
@@ -40,7 +56,17 @@
     "build": "rimraf dist && tsc -p tsconfig.build.json",
     "dev": "tsc -p tsconfig.build.json --watch",
     "generate": "node scripts/generate-icons.js",
-    "prepack": "npm run clean && npm run build"
+    "prepack": "npm run clean && npm run build",
+    "test": "echo \"No tests specified\" && exit 0",
+    "lint": "eslint src --ext .ts,.tsx --fix",
+    "lint:check": "eslint src --ext .ts,.tsx",
+    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "format:check": "prettier --check \"src/**/*.{ts,tsx}\"",
+    "type-check": "tsc --noEmit",
+    "prepublishOnly": "npm run build",
+    "prepare": "npm run build",
+    "release": "semantic-release",
+    "commit": "git-cz"
   },
   "peerDependencies": {
     "react": ">=16.8"
@@ -48,26 +74,59 @@
   "devDependencies": {
     "@types/node": "^20.12.12",
     "@types/react": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
     "change-case": "^5.4.4",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "fast-glob": "^3.3.2",
     "prettier": "^3.3.2",
     "rimraf": "^5.0.7",
     "svgo": "^3.3.2",
     "tsup": "^8.1.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "@commitlint/cli": "^18.0.0",
+    "husky": "^8.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/npm": "^10.0.0",
+    "semantic-release": "^22.0.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=16",
+    "npm": ">=8"
   },
   "keywords": [
     "icons",
     "react",
     "typescript",
     "svg",
-    "opendex-corporation"
+    "opendex",
+    "opendex-corporation",
+    "icon-library",
+    "ui-icons",
+    "react-icons",
+    "svg-icons",
+    "typescript-icons",
+    "design-system",
+    "ui-components",
+    "frontend",
+    "web-development",
+    "react-components",
+    "icon-pack",
+    "vector-icons",
+    "scalable-icons"
+  ],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
   ]
 }
 

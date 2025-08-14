@@ -1,19 +1,24 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "dist",
-    "rootDir": "src",
     "declaration": true,
-    "emitDeclarationOnly": false,
-    "module": "ESNext",
-    "target": "ES2019",
-    "jsx": "react-jsx",
-    "moduleResolution": "Bundler",
+    "declarationMap": true,
+    "sourceMap": true,
+    "removeComments": false,
     "noEmit": false,
-    "skipLibCheck": true
+    "outDir": "./dist",
+    "rootDir": "./src"
   },
   "include": ["src/**/*"],
-  "exclude": ["node_modules", "dist"]
+  "exclude": [
+    "dist",
+    "node_modules",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "**/*.spec.ts",
+    "**/*.spec.tsx",
+    "scripts/**/*"
+  ]
 }
 
 
