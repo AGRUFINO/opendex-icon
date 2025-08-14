@@ -316,6 +316,7 @@ npm run type-check   # Verificar tipos TypeScript
 - **Estilos**: 5 (Light, Regular, Filled, Duotone, Duotone Line)
 - **Tamaño del bundle**: ~5MB (comprimido)
 - **Compatibilidad**: React 16.8+, TypeScript 4.0+
+- **Versión actual**: 2.9.2
 
 ## 🤝 Contribuir
 
