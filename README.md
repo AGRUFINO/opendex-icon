@@ -4,13 +4,13 @@
 
 ![npm version](https://img.shields.io/npm/v/@opendex-origon/icons.svg)
 ![npm downloads](https://img.shields.io/npm/dm/@opendex-origon/icons.svg)
-![npm license](https://img.shields.io/npm/l/@opendex-origon/icons.svg)
+![License](https://img.shields.io/badge/License-Opendex%20Restricted-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 **Biblioteca profesional de iconos SVG para React con tipado TypeScript completo**
 
-*Desarrollado por AGRUFINO*
+_Desarrollado por Opendex Corporation_
 
 [📖 Documentación](#documentación) • [🚀 Instalación](#instalación) • [💡 Ejemplos](#ejemplos) • [🔧 Desarrollo](#desarrollo)
 
@@ -53,15 +53,15 @@ function App() {
     <div>
       {/* Tamaño con número (píxeles) */}
       <User size={24} />
-      
+
       {/* Tamaño con string (unidades CSS) */}
-      <Check size="1.5rem" color="green" />
-      
+      <Check size='1.5rem' color='green' />
+
       {/* Color personalizado */}
-      <X size={32} color="red" />
-      
+      <X size={32} color='red' />
+
       {/* Con className para estilos */}
-      <Settings size={20} className="icon-spin" />
+      <Settings size={20} className='icon-spin' />
     </div>
   );
 }
@@ -70,72 +70,108 @@ function App() {
 ## 🎨 Categorías de Iconos
 
 ### UI Basics
+
 ```tsx
-import { 
-  Check, X, Plus, Minus, 
-  Search, Filter, Sort, Menu 
+import {
+  Check,
+  X,
+  Plus,
+  Minus,
+  Search,
+  Filter,
+  Sort,
+  Menu,
 } from '@opendex-origon/icons';
 ```
 
 ### Arrows
+
 ```tsx
-import { 
-  ArrowUp, ArrowDown, ArrowLeft, ArrowRight,
-  ChevronUp, ChevronDown, ChevronLeft, ChevronRight 
+import {
+  ArrowUp,
+  ArrowDown,
+  ArrowLeft,
+  ArrowRight,
+  ChevronUp,
+  ChevronDown,
+  ChevronLeft,
+  ChevronRight,
 } from '@opendex-origon/icons';
 ```
 
 ### Business & Finance
+
 ```tsx
-import { 
-  Dollar, Euro, Bitcoin, Chart,
-  Wallet, CreditCard, Bank, Calculator 
+import {
+  Dollar,
+  Euro,
+  Bitcoin,
+  Chart,
+  Wallet,
+  CreditCard,
+  Bank,
+  Calculator,
 } from '@opendex-origon/icons';
 ```
 
 ### Devices & Hardware
+
 ```tsx
-import { 
-  Phone, Laptop, Tablet, Desktop,
-  Camera, Headphones, Keyboard, Mouse 
+import {
+  Phone,
+  Laptop,
+  Tablet,
+  Desktop,
+  Camera,
+  Headphones,
+  Keyboard,
+  Mouse,
 } from '@opendex-origon/icons';
 ```
 
 ### Communication
+
 ```tsx
-import { 
-  Email, Message, Phone, Video,
-  Share, Link, Download, Upload 
+import {
+  Email,
+  Message,
+  Phone,
+  Video,
+  Share,
+  Link,
+  Download,
+  Upload,
 } from '@opendex-origon/icons';
 ```
 
 ## 🔧 Props Disponibles
 
-| Prop | Tipo | Default | Descripción |
-|------|------|---------|-------------|
-| `size` | `number \| string` | `24` | Tamaño del icono (px, rem, em, etc.) |
-| `color` | `string` | `currentColor` | Color del trazo |
-| `strokeWidth` | `number` | `2` | Grosor del trazo |
-| `fill` | `string` | `none` | Color de relleno |
-| `className` | `string` | - | Clases CSS adicionales |
-| `style` | `CSSProperties` | - | Estilos inline |
-| `onClick` | `function` | - | Evento click |
-| `...svgProps` | - | - | Todos los props nativos de SVG |
+| Prop          | Tipo               | Default        | Descripción                          |
+| ------------- | ------------------ | -------------- | ------------------------------------ |
+| `size`        | `number \| string` | `24`           | Tamaño del icono (px, rem, em, etc.) |
+| `color`       | `string`           | `currentColor` | Color del trazo                      |
+| `strokeWidth` | `number`           | `2`            | Grosor del trazo                     |
+| `fill`        | `string`           | `none`         | Color de relleno                     |
+| `className`   | `string`           | -              | Clases CSS adicionales               |
+| `style`       | `CSSProperties`    | -              | Estilos inline                       |
+| `onClick`     | `function`         | -              | Evento click                         |
+| `...svgProps` | -                  | -              | Todos los props nativos de SVG       |
 
 ## 🎯 Ejemplos Avanzados
 
 ### Iconos con Estados
+
 ```tsx
 import { Check, X, Loading } from '@opendex-origon/icons';
 
 function StatusIcon({ status }) {
   switch (status) {
     case 'success':
-      return <Check size={20} color="green" />;
+      return <Check size={20} color='green' />;
     case 'error':
-      return <X size={20} color="red" />;
+      return <X size={20} color='red' />;
     case 'loading':
-      return <Loading size={20} className="animate-spin" />;
+      return <Loading size={20} className='animate-spin' />;
     default:
       return null;
   }
@@ -143,23 +179,21 @@ function StatusIcon({ status }) {
 ```
 
 ### Iconos Responsivos
+
 ```tsx
 import { Menu, Close } from '@opendex-origon/icons';
 
 function MobileMenu({ isOpen, onToggle }) {
   return (
     <button onClick={onToggle}>
-      {isOpen ? (
-        <Close size="1.5rem" />
-      ) : (
-        <Menu size="1.5rem" />
-      )}
+      {isOpen ? <Close size='1.5rem' /> : <Menu size='1.5rem' />}
     </button>
   );
 }
 ```
 
 ### Iconos con Temas
+
 ```tsx
 import { Sun, Moon } from '@opendex-origon/icons';
 
@@ -167,9 +201,9 @@ function ThemeToggle({ theme, onToggle }) {
   return (
     <button onClick={onToggle}>
       {theme === 'dark' ? (
-        <Sun size={24} color="yellow" />
+        <Sun size={24} color='yellow' />
       ) : (
-        <Moon size={24} color="blue" />
+        <Moon size={24} color='blue' />
       )}
     </button>
   );
@@ -177,20 +211,15 @@ function ThemeToggle({ theme, onToggle }) {
 ```
 
 ### Iconos con Animaciones
+
 ```tsx
 import { Heart, Star } from '@opendex-origon/icons';
 
 function AnimatedIcons() {
   return (
     <div>
-      <Heart 
-        size={24} 
-        className="hover:scale-110 transition-transform" 
-      />
-      <Star 
-        size={24} 
-        className="animate-pulse" 
-      />
+      <Heart size={24} className='hover:scale-110 transition-transform' />
+      <Star size={24} className='animate-pulse' />
     </div>
   );
 }
@@ -199,6 +228,7 @@ function AnimatedIcons() {
 ## 📦 Importaciones Optimizadas
 
 ### Importación por Categoría
+
 ```tsx
 // Importa todos los iconos de una categoría
 import * as Arrows from '@opendex-origon/icons/Arrows';
@@ -210,6 +240,7 @@ import * as Business from '@opendex-origon/icons/Business';
 ```
 
 ### Importación Individual (Recomendado)
+
 ```tsx
 // Solo importa lo que necesitas (tree-shaking)
 import { ArrowUp, Dollar } from '@opendex-origon/icons';
@@ -242,14 +273,19 @@ import { ArrowUp, Dollar } from '@opendex-origon/icons';
 }
 
 @keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 ```
 
 ## 🔧 Desarrollo
 
 ### Clonar el Repositorio
+
 ```bash
 git clone https://github.com/opendex-origon/opendex-icons.git
 cd opendex-icons
@@ -257,6 +293,7 @@ npm install
 ```
 
 ### Scripts Disponibles
+
 ```bash
 npm run dev          # Desarrollo con watch
 npm run build        # Build de producción
@@ -267,6 +304,7 @@ npm run type-check   # Verificar tipos TypeScript
 ```
 
 ### Generar Nuevos Iconos
+
 1. Coloca tus archivos SVG en `assets/svg/[categoria]/`
 2. Ejecuta `npm run generate`
 3. Los iconos se generarán automáticamente en `src/icons/`
@@ -291,16 +329,28 @@ npm run type-check   # Verificar tipos TypeScript
 
 Este proyecto está licenciado bajo la **Opendex Icons License v1.0** - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-**Uso permitido:**
-- ✅ Aplicaciones que se integren con servicios de Opendex
-- ✅ Proyectos internos de Opendex Corporation
-- ✅ Demostraciones y ejemplos
+### 🔒 **Restricciones de Uso**
 
-**Uso restringido:**
-- ❌ Aplicaciones comerciales no relacionadas con Opendex
-- ❌ Redistribución sin autorización
+**✅ Uso PERMITIDO:**
 
-Para usos comerciales fuera del alcance permitido, contacta a [licensing@opendex.com](mailto:licensing@opendex.com).
+- Aplicaciones que se integren con servicios de Opendex
+- Proyectos que utilicen APIs de Opendex Corporation
+- Aplicaciones que conecten con productos de Opendex
+- Demostraciones y ejemplos de integración con Opendex
+- Proyectos internos de Opendex Corporation
+
+**❌ Uso RESTRINGIDO:**
+
+- Aplicaciones comerciales NO relacionadas con Opendex
+- Productos o servicios que compitan con Opendex
+- Redistribución como biblioteca independiente
+- Uso en proyectos que no se integren con Opendex
+
+### 🚨 **Importante**
+
+Esta biblioteca es **pública** pero con **licencia restrictiva**. Solo puedes usarla si tu proyecto se integra con el ecosistema de Opendex.
+
+Para usos fuera del alcance permitido, contacta a [licensing@opendex.com](mailto:licensing@opendex.com).
 
 ## 🆘 Soporte
 
@@ -324,5 +374,3 @@ Para usos comerciales fuera del alcance permitido, contacta a [licensing@opendex
 [![Opendex](https://img.shields.io/badge/Opendex-Corporation-blue?logo=opendex)](https://opendex.com)
 
 </div>
-
-
