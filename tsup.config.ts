@@ -1,11 +1,11 @@
 import { defineConfig } from 'tsup';
 
 export default defineConfig({
-  entry: ['src/index.ts', 'src/icons/**/*.tsx'],
+  entry: ['src/index.ts'],
   format: ['esm', 'cjs'],
-  dts: true,
+  dts: false, // Desactivamos DTS temporalmente para reducir memoria
   splitting: false,
-  sourcemap: true,
+  sourcemap: false, // Desactivamos sourcemap para reducir memoria
   clean: true,
   target: 'es2019',
   treeshake: true,
@@ -15,10 +15,12 @@ export default defineConfig({
     options.logOverride = { 'css-syntax-error': 'silent' };
     options.jsx = 'automatic';
     options.chunkNames = 'chunks/[name]-[hash]';
+    // Optimizaciones de memoria
+    options.keepNames = false;
+    options.mangleProps = false;
   },
   esbuildPlugins: [],
   workerThreads: false,
-  // reducir concurrencia de typegen para evitar OOM
   tsconfig: 'tsconfig.json',
   external: ['react'],
   outDir: 'dist',

@@ -10,7 +10,7 @@
 
 **Biblioteca profesional de iconos SVG para React con tipado TypeScript completo**
 
-*Desarrollado por Opendex Corporation*
+*Desarrollado por AGRUFINO*
 
 [📖 Documentación](#documentación) • [🚀 Instalación](#instalación) • [💡 Ejemplos](#ejemplos) • [🔧 Desarrollo](#desarrollo)
 

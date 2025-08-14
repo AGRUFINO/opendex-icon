@@ -8,13 +8,13 @@
     "email": "support@opendex.com",
     "url": "https://opendex.com"
   },
-  "homepage": "https://github.com/opendex-origon/opendex-icons#readme",
+  "homepage": "https://github.com/AGRUFINO/opendex-icon#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opendex-origon/opendex-icons.git"
+    "url": "git+https://github.com/AGRUFINO/opendex-icon.git"
   },
   "bugs": {
-    "url": "https://github.com/opendex-origon/opendex-icons/issues"
+    "url": "https://github.com/AGRUFINO/opendex-icon/issues"
   },
   "funding": {
     "type": "individual",
@@ -47,13 +47,17 @@
   },
   "typesVersions": {
     "*": {
-      "icons/*": ["dist/icons/*"],
-      "icons": ["dist/icons/index.d.ts"]
+      "icons/*": [
+        "dist/icons/*"
+      ],
+      "icons": [
+        "dist/icons/index.d.ts"
+      ]
     }
   },
   "scripts": {
     "clean": "rimraf dist",
-    "build": "rimraf dist && tsc -p tsconfig.build.json",
+    "build": "rimraf dist && node --max-old-space-size=8192 scripts/build.js",
     "dev": "tsc -p tsconfig.build.json --watch",
     "generate": "node scripts/generate-icons.js",
     "prepack": "npm run clean && npm run build",
@@ -129,5 +133,3 @@
     "not dead"
   ]
 }
-
-
