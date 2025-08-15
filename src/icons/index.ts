@@ -1,4 +1,4 @@
-export * as Group1UiBasics from './1-UI Basics';
+export * as Group1UiBasics from './UI Basics';
 export * as Arrows from './Arrows';
 export * as Buildings from './Buildings';
 export * as BusinessFinance from './Business & Finance';

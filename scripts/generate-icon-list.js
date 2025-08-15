@@ -4,9 +4,12 @@ const path = require('path');
 console.log('🎨 Generando lista completa de iconos por categorías...\n');
 
 const iconsDir = path.resolve(__dirname, '../src/icons');
-const categories = fs.readdirSync(iconsDir).filter(item => 
-  fs.statSync(path.join(iconsDir, item)).isDirectory() && item !== 'svg'
-);
+const categories = fs
+  .readdirSync(iconsDir)
+  .filter(
+    item =>
+      fs.statSync(path.join(iconsDir, item)).isDirectory() && item !== 'svg'
+  );
 
 let totalIcons = 0;
 let categoryList = [];
@@ -14,31 +17,32 @@ let categoryList = [];
 // Procesar cada categoría
 categories.forEach(category => {
   const categoryPath = path.join(iconsDir, category);
-  const styles = fs.readdirSync(categoryPath).filter(item => 
-    fs.statSync(path.join(categoryPath, item)).isDirectory()
-  );
-  
+  const styles = fs
+    .readdirSync(categoryPath)
+    .filter(item => fs.statSync(path.join(categoryPath, item)).isDirectory());
+
   let categoryIcons = [];
-  
+
   // Procesar cada estilo (Light, Regular, Filled, etc.)
   styles.forEach(style => {
     const stylePath = path.join(categoryPath, style);
-    const iconFiles = fs.readdirSync(stylePath)
+    const iconFiles = fs
+      .readdirSync(stylePath)
       .filter(file => file.endsWith('.tsx') && file !== 'index.ts')
       .map(file => file.replace('.tsx', ''));
-    
+
     categoryIcons.push(...iconFiles);
   });
-  
+
   // Remover duplicados (mismo icono en diferentes estilos)
   const uniqueIcons = [...new Set(categoryIcons)].sort();
-  
+
   categoryList.push({
     name: category,
     count: uniqueIcons.length,
-    icons: uniqueIcons
+    icons: uniqueIcons,
   });
-  
+
   totalIcons += uniqueIcons.length;
 });
 
@@ -62,14 +66,14 @@ report += `\n## 🎨 Detalle por Categoría\n\n`;
 
 categoryList.forEach(cat => {
   report += `### ${cat.name} (${cat.count} iconos)\n\n`;
-  
+
   // Agrupar iconos en columnas de 4
   const columns = 4;
   for (let i = 0; i < cat.icons.length; i += columns) {
     const row = cat.icons.slice(i, i + columns);
     report += `- ${row.join(' • ')}\n`;
   }
-  
+
   report += `\n`;
 });
 
@@ -87,3 +91,4 @@ console.log('\n📋 Resumen por categorías:');
 categoryList.forEach(cat => {
   console.log(`  ${cat.name}: ${cat.count} iconos`);
 });
+

@@ -16,10 +16,13 @@ console.log('📦 Copiando archivos principales...');
 const buildTsConfig = {
   extends: './tsconfig.json',
   include: ['src/index.ts', 'src/IconBase.tsx', 'src/types.ts'],
-  exclude: ['src/icons/**/*', 'src/setupTests.ts']
+  exclude: ['src/icons/**/*', 'src/setupTests.ts'],
 };
 
-fs.writeFileSync(path.join(__dirname, '../tsconfig.build-temp.json'), JSON.stringify(buildTsConfig, null, 2));
+fs.writeFileSync(
+  path.join(__dirname, '../tsconfig.build-temp.json'),
+  JSON.stringify(buildTsConfig, null, 2)
+);
 
 // Crear un archivo index.js simple que exporte todo
 const indexContent = `// Build generado automáticamente
@@ -41,15 +44,18 @@ const packageJson = {
     '.': {
       types: './index.d.ts',
       import: './index.js',
-      require: './index.js'
-    }
+      require: './index.js',
+    },
   },
   peerDependencies: {
-    react: '>=16.8'
-  }
+    react: '>=16.8',
+  },
 };
 
-fs.writeFileSync(path.join(distDir, 'package.json'), JSON.stringify(packageJson, null, 2));
+fs.writeFileSync(
+  path.join(distDir, 'package.json'),
+  JSON.stringify(packageJson, null, 2)
+);
 
 // Compilar solo los archivos principales con TypeScript
 console.log('🔨 Compilando archivos principales...');
@@ -58,24 +64,23 @@ try {
   // Usar tsc con el tsconfig temporal
   execSync('npx tsc --project tsconfig.build-temp.json', {
     stdio: 'inherit',
-    cwd: path.resolve(__dirname, '..')
+    cwd: path.resolve(__dirname, '..'),
   });
-  
+
   console.log('✅ Build completado exitosamente!');
   console.log('📁 Archivos generados en: dist/');
-  
+
   // Limpiar archivo temporal
   if (fs.existsSync(path.join(__dirname, '../tsconfig.build-temp.json'))) {
     fs.unlinkSync(path.join(__dirname, '../tsconfig.build-temp.json'));
   }
-  
 } catch (error) {
   console.error('❌ Error durante el build:', error.message);
-  
+
   // Limpiar archivo temporal en caso de error
   if (fs.existsSync(path.join(__dirname, '../tsconfig.build-temp.json'))) {
     fs.unlinkSync(path.join(__dirname, '../tsconfig.build-temp.json'));
   }
-  
+
   process.exit(1);
 }
